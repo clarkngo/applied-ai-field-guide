@@ -21,6 +21,10 @@ search:
 aux_links:
   Clark Ngo: https://clarkngo.github.io/
 
+# Diagrams: fenced ```mermaid blocks render as flowcharts and charts
+mermaid:
+  version: "11.4.1"
+
 heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
