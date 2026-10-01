@@ -28,3 +28,5 @@ flowchart TB
 2. **Socratic tutor prompt:** a copy-paste prompt you can give learners today.
 3. **Scenario knowledge checks:** follow-ups that make learning stick.
 4. **AI in course operations:** feedback, announcements, and grading support, with a human owning every final grade.
+5. **Writing a course AI policy:** assignment-by-assignment rules that learners can follow.
+6. **AI-resilient assessment:** redesign assignments so they measure judgment even when AI is available.

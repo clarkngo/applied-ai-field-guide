@@ -27,13 +27,15 @@ This is an independent professional reference by [Clark Ngo](https://clarkngo.gi
 ```
 index.md                 Home page
 docs/
-  start-here/            What is AI, should you use AI, the rubric
-  foundations/           Context engineering, how LLMs fail, data classification, human-in-the-loop
-  students/              Worked business tasks (break-even, cash flow, market analysis, research-to-brief)
-  educators/             Challenge design, Socratic tutor prompt, knowledge checks, course operations
+  start-here/            What is AI, should you use AI, the rubric, glossary
+  foundations/           Context engineering, how LLMs fail, data classification, human-in-the-loop, bias and ethics
+  students/              Worked business tasks (break-even, cash flow, market analysis, research-to-brief,
+                         business writing, spreadsheet analysis, customer feedback)
+  educators/             Challenge design, Socratic tutor, knowledge checks, course operations,
+                         course AI policy, AI-resilient assessment
   workflows/             Agent patterns and when to automate
-  tools/                 Vendor-neutral learning ladder
-  templates/             Index of every copy-paste template and rubric
+  tools/                 Vendor-neutral learning ladder, evaluating a tool
+  templates/             Index of every copy-paste template and rubric, plus the AI-use log
   _templates/            Page templates for contributors (not published)
 ```
 

@@ -19,6 +19,8 @@ flowchart LR
   LF["How LLMs fail"] --> V["VERIFY"]
   HL["Human-in-the-loop design"] --> V
   HL --> D["DECIDE"]
+  BE["Bias, fairness, and ethics"] --> V
+  BE --> D
   classDef use fill:#e8f0fe,stroke:#4a6fa5;
   classDef verify fill:#e6f4ea,stroke:#3c8c5a;
   classDef dd fill:#fef7e0,stroke:#b08900;
@@ -31,3 +33,4 @@ flowchart LR
 - **How LLMs fail:** hallucination, bad math, stale data, and how to catch each.
 - **Data classification:** what may go into which tool.
 - **Human-in-the-loop design:** where people must check, approve, or decide.
+- **Bias, fairness, and ethics:** swap tests, proxies, ownership, and accountability.

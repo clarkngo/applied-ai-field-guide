@@ -52,7 +52,7 @@ flowchart LR
 2. **Before reaching for AI on any task**, run through [Should you use AI here?]({% link docs/start-here/should-you-use-ai.md %}). Sometimes the right answer is a spreadsheet formula, and sometimes it's you.
 3. **Learn the four habits** in [the rubric]({% link docs/start-here/rubric.md %}). Everything else in the guide hangs on them.
 4. **Work one task page end to end**, with a real tool open. Reading about verification is not the same as catching your first hallucination.
-5. **Use [Templates]({% link docs/templates/index.md %})** when you just need the copy-paste version.
+5. **Use [Templates]({% link docs/templates/index.md %})** when you just need the copy-paste version, and the [Glossary]({% link docs/start-here/glossary.md %}) when a term is unfamiliar.
 
 ## How every task page is laid out
 

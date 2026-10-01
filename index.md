@@ -54,12 +54,12 @@ The [full rubric]({% link docs/start-here/rubric.md %}) describes what beginning
 
 ## How the guide is organized
 
-- **[Start Here]({% link docs/start-here/index.md %})**: what AI is, how to use this guide, and the rubric.
-- **[Foundations]({% link docs/foundations/index.md %})**: context engineering, how LLMs fail, data classification, human-in-the-loop design.
+- **[Start Here]({% link docs/start-here/index.md %})**: what AI is, whether to use it, the rubric, and a glossary.
+- **[Foundations]({% link docs/foundations/index.md %})**: context engineering, how LLMs fail, data classification, human-in-the-loop design, bias and ethics.
 - **[For Students]({% link docs/students/index.md %})**: worked business tasks.
-- **[For Educators]({% link docs/educators/index.md %})**: challenge design, a Socratic tutor prompt, knowledge checks, course operations.
+- **[For Educators]({% link docs/educators/index.md %})**: challenge design, a Socratic tutor prompt, knowledge checks, course operations, course AI policies, AI-resilient assessment.
 - **[Workflows & Agents]({% link docs/workflows/index.md %})**: simple multi-step patterns, and when to automate.
-- **[Tools]({% link docs/tools/index.md %})**: a vendor-neutral learning ladder.
+- **[Tools]({% link docs/tools/index.md %})**: a vendor-neutral learning ladder, and how to evaluate a tool.
 - **[Templates]({% link docs/templates/index.md %})**: every copy-paste template and rubric in one place.
 
 ---
