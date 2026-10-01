@@ -29,3 +29,13 @@ flowchart LR
 ## Suggested order
 
 Start with **Break-even analysis**. It's the fully worked model for every other task page, and it contains the most common AI mistake in business math: holding a cost constant when it actually depends on price.
+
+| If you need to... | Go to |
+|:--|:--|
+| Work with costs, prices, and volumes | Break-even analysis |
+| Plan around timing of cash | Cash-flow analysis |
+| Size a market or compare competitors | Competitive and market analysis |
+| Synthesize many sources | Research-to-brief |
+| Write an email or memo | Business writing |
+| Build formulas or summarize a spreadsheet | Spreadsheet and data analysis |
+| Make sense of survey comments or reviews | Customer feedback analysis |
