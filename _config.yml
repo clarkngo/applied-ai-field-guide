@@ -1,0 +1,55 @@
+title: Applied AI Field Guide
+description: >-
+  A practical field guide to using AI with good judgment in real business
+  and teaching work. Use · Verify · Disclose · Decide.
+theme: just-the-docs
+
+url: https://clarkngo.github.io
+baseurl: /applied-ai-field-guide
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+aux_links:
+  Clark Ngo: https://clarkngo.github.io/
+
+# Diagrams: fenced ```mermaid blocks render as flowcharts and charts
+mermaid:
+  version: "11.4.1"
+
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: >-
+  An independent professional reference by Clark Ngo. Not affiliated with or
+  endorsed by any institution. Examples use fictional companies.
+
+callouts:
+  note:
+    title: Note
+    color: blue
+  tip:
+    title: Tip
+    color: green
+  warning:
+    title: Watch out
+    color: red
+  stub:
+    title: Draft in progress
+    color: yellow
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .ruby-version
+  - vendor/
