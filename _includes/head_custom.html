@@ -1,0 +1,74 @@
+<!-- Click a diagram or image to view it full size -->
+<style>
+  .main-content code.language-mermaid,
+  .main-content img { cursor: zoom-in; }
+  .main-content code.language-mermaid:focus-visible,
+  .main-content img:focus-visible { outline: 2px solid #7253ed; outline-offset: 4px; }
+
+  .zoom-viewer {
+    width: 96vw; max-width: 96vw; height: 94vh; max-height: 94vh;
+    padding: 0; border: 0; border-radius: 8px; background: #fff;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, .35);
+  }
+  .zoom-viewer::backdrop { background: rgba(0, 0, 0, .7); }
+  .zoom-viewer__body {
+    box-sizing: border-box; width: 100%; height: 100%; padding: 3rem 1.5rem 1.5rem;
+    display: flex; align-items: center; justify-content: center; overflow: auto;
+    cursor: zoom-out;
+  }
+  .zoom-viewer__body > svg,
+  .zoom-viewer__body > img {
+    width: 100%; height: 100%; max-width: none !important; object-fit: contain;
+  }
+  .zoom-viewer__close {
+    position: absolute; top: .5rem; right: .75rem; width: 2.25rem; height: 2.25rem;
+    border: 0; border-radius: 50%; background: #f5f6fa; color: #27262b;
+    font-size: 1.5rem; line-height: 1; cursor: pointer;
+  }
+  .zoom-viewer__close:hover { background: #e6e1f8; }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var SELECTOR = '.main-content code.language-mermaid, .main-content img';
+
+    var viewer = document.createElement('dialog');
+    viewer.className = 'zoom-viewer';
+    viewer.setAttribute('aria-label', 'Full-size view');
+    viewer.innerHTML =
+      '<button type="button" class="zoom-viewer__close" aria-label="Close">&times;</button>' +
+      '<div class="zoom-viewer__body"></div>';
+    document.body.appendChild(viewer);
+    var body = viewer.querySelector('.zoom-viewer__body');
+
+    // Clicking anywhere (image, backdrop, or close button) closes the viewer
+    viewer.addEventListener('click', function () { viewer.close(); });
+    viewer.addEventListener('close', function () { body.innerHTML = ''; });
+
+    function open(el) {
+      var source = el.tagName === 'IMG' ? el : el.querySelector('svg');
+      if (!source) return; // diagram has not rendered yet
+      var copy = source.cloneNode(true);
+      copy.removeAttribute('style');
+      if (copy.tagName === 'IMG') copy.removeAttribute('width'), copy.removeAttribute('height');
+      else copy.setAttribute('preserveAspectRatio', 'xMidYMid meet');
+      body.appendChild(copy);
+      viewer.showModal();
+    }
+
+    document.querySelectorAll(SELECTOR).forEach(function (el) {
+      el.setAttribute('tabindex', '0');
+      el.setAttribute('role', 'button');
+      el.setAttribute('aria-label', el.alt ? 'View full size: ' + el.alt : 'View diagram full size');
+    });
+
+    document.addEventListener('click', function (e) {
+      var el = e.target.closest(SELECTOR);
+      if (el && !el.closest('a')) open(el);
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== 'Enter' && e.key !== ' ') return;
+      var el = e.target.closest && e.target.closest(SELECTOR);
+      if (el) { e.preventDefault(); open(el); }
+    });
+  });
+</script>
