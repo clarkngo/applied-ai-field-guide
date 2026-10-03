@@ -2,7 +2,7 @@
 title: "The rubric: Use · Verify · Disclose · Decide"
 layout: default
 parent: Start Here
-nav_order: 5
+nav_order: 6
 ---
 
 # The rubric: Use · Verify · Disclose · Decide

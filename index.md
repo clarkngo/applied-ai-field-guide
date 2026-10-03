@@ -54,7 +54,7 @@ The [full rubric]({% link docs/start-here/rubric.md %}) describes what beginning
 
 ## How the guide is organized
 
-- **[Start Here]({% link docs/start-here/index.md %})**: what AI is, first and second principles, whether to use it, the rubric, and a glossary.
+- **[Start Here]({% link docs/start-here/index.md %})**: what AI is, first, second, and third principles, whether to use it, the rubric, and a glossary.
 - **[Foundations]({% link docs/foundations/index.md %})**: context engineering, how LLMs fail, data classification, human-in-the-loop design, bias and ethics.
 - **[For Students]({% link docs/students/index.md %})**: worked business tasks.
 - **[For Educators]({% link docs/educators/index.md %})**: challenge design, a Socratic tutor prompt, knowledge checks, course operations, course AI policies, AI-resilient assessment.

@@ -161,6 +161,8 @@ Use this as a **second-principles audit** on any AI-assisted deliverable:
 
 **Disclose:** The audit table works well as an appendix to an AI-use disclosure on important work. It shows *how* the work was checked, not just that AI was used.
 
+**Next level:** If you lead a team or a course, [third principles]({% link docs/start-here/third-principles.md %}) show how to make these rules the default for everyone.
+
 **Decide:** The principles are defaults, not laws. You may have a good reason to depart from one, for example skipping a pilot for a one-off, low-stakes task. When you do, make it a deliberate decision you could explain, not a shortcut you happened to take.
 
 ## For educators: turn this into a challenge
