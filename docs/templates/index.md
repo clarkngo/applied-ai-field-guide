@@ -1,7 +1,7 @@
 ---
 title: Templates
 layout: default
-nav_order: 8
+nav_order: 9
 ---
 
 # Templates
@@ -98,6 +98,16 @@ Disclosure statement: [2–4 SENTENCES]
 | Feedback and announcement prompts | Draft course communications for human review | [AI in course operations]({% link docs/educators/course-operations.md %}#prompt-template) |
 | Syllabus AI policy | Assignment-by-assignment AI levels, disclosure, and instructor use | [Writing a course AI policy]({% link docs/educators/course-ai-policy.md %}#prompt-template) |
 | Assignment stress test | See how an AI-only submission would score, then redesign | [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %}#prompt-template) |
+
+## For running AI
+
+| Template | What it's for | Where |
+|:--|:--|:--|
+| Model memory estimate | Parameters × bytes per parameter, plus about 20% | [Hardware requirements]({% link docs/running-ai/hardware.md %}#memory-is-usually-the-limit) |
+| System layers checklist | Ten layers, each with an owner | [Software and infrastructure]({% link docs/running-ai/software-infrastructure.md %}#the-layers-of-an-ai-system) |
+| Role and responsibility matrix | Who's responsible, accountable, consulted, and informed for each workflow | [Skills and roles]({% link docs/running-ai/skills-and-roles.md %}#who-does-what-one-workflow) |
+| Token cost formula and break-even | API cost vs. self-hosting | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-2-would-self-hosting-be-cheaper) |
+| Incident runbook | Pause, roll back, notify, fix, log | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-3-the-silent-model-change-and-the-fix) |
 
 ## For workflows
 
