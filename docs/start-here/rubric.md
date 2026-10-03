@@ -2,7 +2,7 @@
 title: "The rubric: Use · Verify · Disclose · Decide"
 layout: default
 parent: Start Here
-nav_order: 3
+nav_order: 5
 ---
 
 # The rubric: Use · Verify · Disclose · Decide
@@ -33,6 +33,8 @@ flowchart LR
   class V verify;
   class D1,D2 dd;
 ```
+
+Each habit is a response to the [first principles]({% link docs/start-here/first-principles.md %}) of how AI works, and the [second principles]({% link docs/start-here/second-principles.md %}) turn the habits into specific rules.
 
 The dotted arrow matters. Verification often sends you back to Use, with better context, a different tool, or a narrower question. Expect to go around that loop more than once.
 

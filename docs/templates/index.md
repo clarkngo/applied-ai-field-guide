@@ -59,6 +59,8 @@ Disclosure statement: [2–4 SENTENCES]
 
 | Template | What it's for | Where |
 |:--|:--|:--|
+| First-principles check | Ten questions to ask about any new AI tool or feature | [First principles]({% link docs/start-here/first-principles.md %}#verify-checklist) |
+| Second-principles audit | Ten checks on any AI-assisted deliverable | [Second principles]({% link docs/start-here/second-principles.md %}#verify-checklist) |
 | Quick-start prompt | A first prompt that asks for a draft, its assumptions, and a follow-up question | [What is AI?]({% link docs/start-here/what-is-ai.md %}#your-first-15-minutes) |
 | "Should you use AI?" checklist | Decide between human only, automation, AI with review, or AI automation | [Should you use AI here?]({% link docs/start-here/should-you-use-ai.md %}#verify-checklist) |
 | Time-savings formula | Check whether AI actually saves time once review is included | [Should you use AI here?]({% link docs/start-here/should-you-use-ai.md %}#check-the-math-does-ai-actually-save-time) |

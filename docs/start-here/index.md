@@ -39,7 +39,8 @@ The guide is vendor-neutral. It describes kinds of tools ("a chat assistant with
 
 ```mermaid
 flowchart LR
-  A["New to AI?<br/>Read the quick start"] --> B["Should AI touch<br/>this task at all?"]
+  A["New to AI?<br/>Read the quick start"] --> FP["First and second<br/>principles"]
+  FP --> B["Should AI touch<br/>this task at all?"]
   B --> C["Learn the rubric:<br/>Use · Verify · Disclose · Decide"]
   C --> D{"Who are you?"}
   D -->|Student| E["Work one task page<br/>end to end"]
@@ -49,10 +50,11 @@ flowchart LR
 ```
 
 1. **If AI is new to you**, read [What is AI? A quick start]({% link docs/start-here/what-is-ai.md %}). It takes about 10 minutes and ends with a safe first exercise.
-2. **Before reaching for AI on any task**, run through [Should you use AI here?]({% link docs/start-here/should-you-use-ai.md %}). Sometimes the right answer is a spreadsheet formula, and sometimes it's you.
-3. **Learn the four habits** in [the rubric]({% link docs/start-here/rubric.md %}). Everything else in the guide hangs on them.
-4. **Work one task page end to end**, with a real tool open. Reading about verification is not the same as catching your first hallucination.
-5. **Use [Templates]({% link docs/templates/index.md %})** when you just need the copy-paste version, and the [Glossary]({% link docs/start-here/glossary.md %}) when a term is unfamiliar.
+2. **Learn the principles.** [First principles]({% link docs/start-here/first-principles.md %}) explain how AI tools behave, and [second principles]({% link docs/start-here/second-principles.md %}) turn that into ten working rules. Together they take about 20 minutes, and they last longer than any tool tip.
+3. **Before reaching for AI on any task**, run through [Should you use AI here?]({% link docs/start-here/should-you-use-ai.md %}). Sometimes the right answer is a spreadsheet formula, and sometimes it's you.
+4. **Learn the four habits** in [the rubric]({% link docs/start-here/rubric.md %}). Everything else in the guide hangs on them.
+5. **Work one task page end to end**, with a real tool open. Reading about verification is not the same as catching your first hallucination.
+6. **Use [Templates]({% link docs/templates/index.md %})** when you just need the copy-paste version, and the [Glossary]({% link docs/start-here/glossary.md %}) when a term is unfamiliar.
 
 ## How every task page is laid out
 

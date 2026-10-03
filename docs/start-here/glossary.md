@@ -2,7 +2,7 @@
 title: Glossary
 layout: default
 parent: Start Here
-nav_order: 4
+nav_order: 6
 ---
 
 # Glossary
@@ -91,6 +91,9 @@ flowchart TB
 **Human in the loop**
 : A process design where people review, approve, or decide at defined points. See [Human-in-the-loop design]({% link docs/foundations/human-in-the-loop.md %}).
 
+**First principles**
+: Ten basic truths about how AI tools behave, such as "it predicts, it doesn't know." See [First principles of AI]({% link docs/start-here/first-principles.md %}).
+
 ## I–P
 
 **Knowledge cutoff**
@@ -115,6 +118,9 @@ flowchart TB
 
 **Retention**
 : How long a tool's provider keeps your inputs and outputs.
+
+**Second principles**
+: Ten working rules derived from the first principles, such as "provide, don't describe." See [Second principles of AI]({% link docs/start-here/second-principles.md %}).
 
 **Scheduling**
 : Running an AI task automatically at set times, such as a weekly digest.
