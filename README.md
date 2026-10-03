@@ -27,7 +27,7 @@ This is an independent professional reference by [Clark Ngo](https://clarkngo.gi
 ```
 index.md                 Home page
 docs/
-  start-here/            What is AI, should you use AI, the rubric, glossary
+  start-here/            What is AI, first and second principles, should you use AI, the rubric, glossary
   foundations/           Context engineering, how LLMs fail, data classification, human-in-the-loop, bias and ethics
   students/              Worked business tasks (break-even, cash flow, market analysis, research-to-brief,
                          business writing, spreadsheet analysis, customer feedback)
