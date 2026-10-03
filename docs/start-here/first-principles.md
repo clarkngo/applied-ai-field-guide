@@ -32,7 +32,7 @@ Tool-specific tips go out of date in months. First principles don't. If you unde
 - Explain your concerns to a manager or a class without jargon.
 - Avoid both extremes: trusting everything, and rejecting anything new.
 
-Each principle below states a truth, gives the reason it's true, and says what follows from it. The working rules that follow are collected in [Second principles]({% link docs/start-here/second-principles.md %}).
+Each principle below states a truth, gives the reason it's true, and says what follows from it. The working rules that follow are collected in [Second principles]({% link docs/start-here/second-principles.md %}), and the team-level principles in [Third principles]({% link docs/start-here/third-principles.md %}).
 
 ## Key ideas
 

@@ -2,7 +2,7 @@
 title: Glossary
 layout: default
 parent: Start Here
-nav_order: 6
+nav_order: 7
 ---
 
 # Glossary
@@ -133,6 +133,9 @@ flowchart TB
 
 **Swap test**
 : A bias check: change one detail about a person (name, pronouns) and compare the outputs. See [Bias, fairness, and ethics]({% link docs/foundations/bias-and-ethics.md %}).
+
+**Third principles**
+: Ten principles for teams and organizations that make good AI habits the default, such as "make the safe path the easy path." See [Third principles of AI]({% link docs/start-here/third-principles.md %}).
 
 **Token**
 : A small chunk of text, often part of a word, that a model reads and generates. Context windows and pricing are usually measured in tokens.
