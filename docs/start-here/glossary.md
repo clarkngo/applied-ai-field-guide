@@ -79,6 +79,9 @@ flowchart TB
 **Disclosure**
 : A clear statement of AI's role in a piece of work: what it did, what you checked, and what you changed. See [the rubric]({% link docs/start-here/rubric.md %}).
 
+**GPU**
+: Graphics processing unit, a chip built for massively parallel arithmetic, which is what running AI models mostly is. See [Hardware requirements]({% link docs/running-ai/hardware.md %}).
+
 **Generative AI**
 : AI that produces new content, such as text, images, audio, or code, rather than only classifying or predicting from data.
 
@@ -96,6 +99,9 @@ flowchart TB
 
 ## I–P
 
+**Inference**
+: Running a trained model to produce an output, as opposed to training it.
+
 **Knowledge cutoff**
 : The date after which a model has no training data. Unless the tool searches the web, the model doesn't know about later events.
 
@@ -104,6 +110,9 @@ flowchart TB
 
 **Model**
 : The trained AI system itself, as distinct from the app or tool you use to access it.
+
+**Open-weight model**
+: A model whose weights are published so you can run it yourself, under its license terms.
 
 **Project**
 : A workspace in some AI tools where instructions and files persist across conversations.
@@ -115,6 +124,12 @@ flowchart TB
 : A detail, such as a zip code or school, that indirectly stands in for a protected characteristic. See [Bias, fairness, and ethics]({% link docs/foundations/bias-and-ethics.md %}).
 
 ## R–Z
+
+**Quantization**
+: Storing a model's weights at lower precision (such as 4-bit) to cut memory needs, usually with some loss of quality.
+
+**RAG (retrieval-augmented generation)**
+: Finding relevant passages in your documents first, then having the model answer from them. See [Software and infrastructure]({% link docs/running-ai/software-infrastructure.md %}).
 
 **Retention**
 : How long a tool's provider keeps your inputs and outputs.
@@ -139,6 +154,9 @@ flowchart TB
 
 **Training (on inputs)**
 : When a provider uses your inputs to improve future models. Whether this happens depends on the tool, plan, and settings.
+
+**VRAM**
+: Memory on a GPU. A model's weights usually need to fit in it to run quickly.
 
 **Use · Verify · Disclose · Decide**
 : The four habits this guide is built on. See [the rubric]({% link docs/start-here/rubric.md %}).

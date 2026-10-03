@@ -1,7 +1,7 @@
 ---
 title: Tools
 layout: default
-nav_order: 7
+nav_order: 8
 has_children: true
 ---
 
@@ -37,4 +37,4 @@ flowchart BT
 | 5 · Connectors and scheduling | Access to your files, email, and calendar; runs on a timer | What data can it reach? Who reviews scheduled output? |
 | 6 · Desktop agents | Acts on your computer: clicks, types, files | What can it change, and can you undo it? |
 
-Colors show rising risk: green rungs mostly produce text for you to read, while red rungs can reach your data or take actions. Check [Data classification]({% link docs/foundations/data-classification.md %}) before connecting anything.
+Colors show rising risk: green rungs mostly produce text for you to read, while red rungs can reach your data or take actions. Check [Data classification]({% link docs/foundations/data-classification.md %}) before connecting anything. To understand what runs *behind* these tools, and what it takes to build or host your own, see [Running AI]({% link docs/running-ai/index.md %}).

@@ -34,6 +34,7 @@ docs/
   educators/             Challenge design, Socratic tutor, knowledge checks, course operations,
                          course AI policy, AI-resilient assessment
   workflows/             Agent patterns and when to automate
+  running-ai/            Hardware, software and infrastructure, skills and roles, operating AI
   tools/                 Vendor-neutral learning ladder, evaluating a tool
   templates/             Index of every copy-paste template and rubric, plus the AI-use log
   _templates/            Page templates for contributors (not published)
