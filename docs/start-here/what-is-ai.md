@@ -122,6 +122,7 @@ The second and third requests are the habit that matters. They make the tool sho
 
 ## Where to go next
 
+- [Your first 30 days]({% link docs/start-here/learning-path.md %}): a week-by-week plan through this guide.
 - [First principles of AI]({% link docs/start-here/first-principles.md %}): ten truths about how AI tools behave, and why the rest of this guide follows from them.
 - [Should you use AI here?]({% link docs/start-here/should-you-use-ai.md %}): decide when AI helps, when plain automation is better, and when a human has to own it.
 - [The rubric: Use · Verify · Disclose · Decide]({% link docs/start-here/rubric.md %}): the four habits the rest of the guide is built on.

@@ -49,7 +49,7 @@ flowchart LR
   F --> G
 ```
 
-1. **If AI is new to you**, read [What is AI? A quick start]({% link docs/start-here/what-is-ai.md %}). It takes about 10 minutes and ends with a safe first exercise.
+1. **If AI is new to you**, read [What is AI? A quick start]({% link docs/start-here/what-is-ai.md %}). It takes about 10 minutes and ends with a safe first exercise. If you want a structured plan, follow [Your first 30 days]({% link docs/start-here/learning-path.md %}), and skim [AI myths and realities]({% link docs/start-here/ai-myths.md %}) to clear up common misconceptions.
 2. **Learn the principles.** [First principles]({% link docs/start-here/first-principles.md %}) explain how AI tools behave, and [second principles]({% link docs/start-here/second-principles.md %}) turn that into ten working rules. If you lead a team or a course, [third principles]({% link docs/start-here/third-principles.md %}) show how to make those rules hold for everyone. They last longer than any tool tip.
 3. **Before reaching for AI on any task**, run through [Should you use AI here?]({% link docs/start-here/should-you-use-ai.md %}). Sometimes the right answer is a spreadsheet formula, and sometimes it's you.
 4. **Learn the four habits** in [the rubric]({% link docs/start-here/rubric.md %}). Everything else in the guide hangs on them.

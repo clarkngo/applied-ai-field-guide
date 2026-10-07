@@ -50,6 +50,9 @@ flowchart TB
 **Autonomy level**
 : How much an AI step does without human approval, from 0 (a human does it) to 4 (AI acts, monitored by metrics). See [Automate or judge?]({% link docs/workflows/automate-vs-judge.md %}).
 
+**BATNA**
+: Best alternative to a negotiated agreement: what you'll do if a deal fails. See [Negotiation practice]({% link docs/students/negotiation-practice.md %}).
+
 **Chat assistant**
 : An application that lets you talk to a language model in conversation, often with extras like file upload, web search, or code execution.
 
@@ -120,6 +123,9 @@ flowchart TB
 **Prompt**
 : The instructions and input you give a model.
 
+**Prompt injection**
+: Hidden instructions in content an AI reads, such as an email or web page, that try to take over what it does. See [AI security and prompt injection]({% link docs/foundations/ai-security.md %}).
+
 **Proxy (in bias)**
 : A detail, such as a zip code or school, that indirectly stands in for a protected characteristic. See [Bias, fairness, and ethics]({% link docs/foundations/bias-and-ethics.md %}).
 
@@ -149,6 +155,9 @@ flowchart TB
 **Swap test**
 : A bias check: change one detail about a person (name, pronouns) and compare the outputs. See [Bias, fairness, and ethics]({% link docs/foundations/bias-and-ethics.md %}).
 
+**Test set**
+: A collection of test cases with known answers, used to measure an AI workflow's quality and compare versions. See [Building an evaluation test set]({% link docs/running-ai/evaluation-test-sets.md %}).
+
 **Third principles**
 : Ten principles for teams and organizations that make good AI habits the default, such as "make the safe path the easy path." See [Third principles of AI]({% link docs/start-here/third-principles.md %}).
 
@@ -160,6 +169,9 @@ flowchart TB
 
 **VRAM**
 : Memory on a GPU. A model's weights usually need to fit in it to run quickly.
+
+**ZOPA**
+: Zone of possible agreement: the range of deals acceptable to both sides of a negotiation.
 
 **Use · Verify · Disclose · Decide**
 : The four habits this guide is built on. See [the rubric]({% link docs/start-here/rubric.md %}).

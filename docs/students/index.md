@@ -39,3 +39,7 @@ Start with **Break-even analysis**. It's the fully worked model for every other 
 | Write an email or memo | Business writing |
 | Build formulas or summarize a spreadsheet | Spreadsheet and data analysis |
 | Make sense of survey comments or reviews | Customer feedback analysis |
+| Analyze a company's financial statements | Financial statement analysis |
+| Build a presentation or pitch deck | Presentations and pitch decks |
+| Prepare a résumé, cover letter, or interview | Career prep |
+| Rehearse a negotiation | Negotiation practice |
