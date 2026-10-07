@@ -71,6 +71,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Claim triage | Which parts of an AI output to check first | [How LLMs fail]({% link docs/foundations/how-llms-fail.md %}#triage-which-claims-to-check-first) |
 | Data-class rules | Which data can go into which tools | [Data classification]({% link docs/foundations/data-classification.md %}#four-data-classes) |
 | Checkpoint types | Approve each, exception, sample, or escalate | [Human-in-the-loop design]({% link docs/foundations/human-in-the-loop.md %}#four-kinds-of-checkpoint) |
+| Trifecta check | Spot setups at risk from prompt injection | [AI security and prompt injection]({% link docs/foundations/ai-security.md %}#the-dangerous-combination) |
 | Swap test | A quick bias check for people-related output | [Bias, fairness, and ethics]({% link docs/foundations/bias-and-ethics.md %}#the-swap-test) |
 | Tool evaluation scorecard | Gates and weighted criteria for choosing a tool | [Evaluating an AI tool]({% link docs/tools/evaluating-a-tool.md %}#weighted-criteria) |
 
@@ -84,6 +85,10 @@ Disclosure statement: [2–4 SENTENCES]
 | Extraction and synthesis prompts | Many sources into one cited brief | [Research-to-brief]({% link docs/students/research-to-brief.md %}#prompt-template) |
 | Business writing prompt | Drafts that use only your facts, then list every claim and commitment | [Business writing]({% link docs/students/business-writing.md %}#prompt-template) |
 | Spreadsheet formula prompt | Formulas with explanations, silent-failure risks, and a reconciliation check | [Spreadsheet and data analysis]({% link docs/students/spreadsheet-analysis.md %}#prompt-template) |
+| Ratio analysis prompt | Ratios calculated with your stated definitions | [Financial statement analysis]({% link docs/students/financial-statements.md %}#prompt-template) |
+| Storyline prompt | Message headlines first, then slide content from your evidence | [Presentations and pitch decks]({% link docs/students/presentations.md %}#prompt-template) |
+| Tailoring and mock-interview prompts | Tailor from a facts file, practice with feedback | [Career prep]({% link docs/students/career-prep.md %}#prompt-template) |
+| Negotiation role-play prompt | An AI counterpart with a hidden brief and a debrief | [Negotiation practice]({% link docs/students/negotiation-practice.md %}#prompt-template) |
 | Theme and tagging prompts | Open-ended feedback, tagged row by row and counted by formula | [Customer feedback analysis]({% link docs/students/customer-feedback-analysis.md %}#prompt-template) |
 
 ## For educators
@@ -97,6 +102,8 @@ Disclosure statement: [2–4 SENTENCES]
 | Knowledge-check item prompt | Scenario questions with distractors built from real mistakes | [Scenario knowledge checks]({% link docs/educators/scenario-knowledge-checks.md %}#prompt-template) |
 | Feedback and announcement prompts | Draft course communications for human review | [AI in course operations]({% link docs/educators/course-operations.md %}#prompt-template) |
 | Syllabus AI policy | Assignment-by-assignment AI levels, disclosure, and instructor use | [Writing a course AI policy]({% link docs/educators/course-ai-policy.md %}#prompt-template) |
+| Case and data pack prompt | A fictional case written around your numbers | [Creating cases and data packs]({% link docs/educators/case-and-data-packs.md %}#prompt-template) |
+| Alt text and plain-language prompts | Accessible versions that keep numbers and meaning | [Accessible and inclusive materials]({% link docs/educators/accessibility.md %}#prompt-template) |
 | Assignment stress test | See how an AI-only submission would score, then redesign | [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %}#prompt-template) |
 
 ## For running AI
@@ -107,6 +114,7 @@ Disclosure statement: [2–4 SENTENCES]
 | System layers checklist | Ten layers, each with an owner | [Software and infrastructure]({% link docs/running-ai/software-infrastructure.md %}#the-layers-of-an-ai-system) |
 | Role and responsibility matrix | Who's responsible, accountable, consulted, and informed for each workflow | [Skills and roles]({% link docs/running-ai/skills-and-roles.md %}#who-does-what-one-workflow) |
 | Token cost formula and break-even | API cost vs. self-hosting | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-2-would-self-hosting-be-cheaper) |
+| Test item format and mix | Build a test set and compare versions item by item | [Building an evaluation test set]({% link docs/running-ai/evaluation-test-sets.md %}#what-a-test-item-looks-like) |
 | Incident runbook | Pause, roll back, notify, fix, log | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-3-the-silent-model-change-and-the-fix) |
 
 ## For workflows
@@ -114,6 +122,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Template | What it's for | Where |
 |:--|:--|:--|
 | Autonomy planner | Assign an autonomy level and minimum access to each step | [Automate or judge?]({% link docs/workflows/automate-vs-judge.md %}#prompt-template) |
+| Meeting summary prompt | Decisions, owners, and dates, with UNCLEAR instead of guesses | [Meeting-to-action-items workflow]({% link docs/workflows/meeting-to-action-items.md %}#prompt-template) |
 | Research-to-brief pipeline spec | A repeatable agent pipeline with STOP checkpoints | [Research-to-brief pipeline]({% link docs/workflows/research-to-brief-pipeline.md %}#prompt-template) |
 | Benchmarking extraction and mapping | Evidence-based coverage matrices from public pages | [Curriculum-benchmarking copilot]({% link docs/workflows/curriculum-benchmarking-copilot.md %}#prompt-template) |
 

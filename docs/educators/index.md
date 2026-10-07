@@ -30,3 +30,5 @@ flowchart TB
 4. **AI in course operations:** feedback, announcements, and grading support, with a human owning every final grade.
 5. **Writing a course AI policy:** assignment-by-assignment rules that learners can follow.
 6. **AI-resilient assessment:** redesign assignments so they measure judgment even when AI is available.
+7. **Creating cases and data packs:** fictional cases with internally consistent numbers and planted traps.
+8. **Accessible and inclusive materials:** alt text, plain language, captions, and translations, checked for accuracy.
