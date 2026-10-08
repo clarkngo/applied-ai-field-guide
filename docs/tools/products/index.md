@@ -32,5 +32,6 @@ The full rules are in the repository's [README](https://github.com/clarkngo/appl
 
 | Ladder rung | Landscape page | Status |
 |:--|:--|:--|
+| 2 · Deep research | [Deep research tools]({% link docs/tools/products/deep-research.md %}) | Last reviewed 2026-10-07. |
 | 3 · Source-grounded synthesis | [Source-grounded synthesis tools]({% link docs/tools/products/source-grounded-synthesis.md %}) | Pilot. Last reviewed 2026-10-07. |
-| 1, 2, 4, 5, 6 | Not yet written | Planned |
+| 1, 4, 5, 6 | Not yet written | Planned |
