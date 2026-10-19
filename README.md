@@ -38,7 +38,7 @@ docs/
                          course AI policy, AI-resilient assessment, cases and data packs, accessibility
   workflows/             Agent patterns, when to automate, meeting-to-action-items
   running-ai/            Hardware, software and infrastructure, skills and roles, operating AI,
-                         evaluation test sets
+                         evaluation test sets, tokens and usage
   tools/                 Vendor-neutral learning ladder, evaluating a tool
     products/            Product landscape: named, dated examples (see rules below)
   templates/             Index of every copy-paste template and rubric, plus the AI-use log

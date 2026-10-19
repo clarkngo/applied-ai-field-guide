@@ -87,6 +87,7 @@ flowchart TD
 - **Software and infrastructure:** the layers of an AI system, from model serving to logging and access control.
 - **Skills and roles:** who you need to run AI responsibly, at each level of ambition.
 - **Operating AI:** keeping AI working day to day through evaluation, monitoring, cost management, and incident response.
+- **Tokens and usage, explained:** what tokens are, chat-app limits vs. API billing, and how to answer "what does it cost?"
 - **Building an evaluation test set:** how to tell whether a workflow is good enough, and whether a change helped.
 
 These pages connect to the rest of the guide. [Data classification]({% link docs/foundations/data-classification.md %}) decides which option your data allows. [Human-in-the-loop design]({% link docs/foundations/human-in-the-loop.md %}) and [Automate or judge?]({% link docs/workflows/automate-vs-judge.md %}) decide how much oversight a workflow needs. The [third principles]({% link docs/start-here/third-principles.md %}) apply to whoever operates the system.

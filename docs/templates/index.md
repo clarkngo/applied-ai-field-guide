@@ -115,6 +115,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Role and responsibility matrix | Who's responsible, accountable, consulted, and informed for each workflow | [Skills and roles]({% link docs/running-ai/skills-and-roles.md %}#who-does-what-one-workflow) |
 | Token cost formula and break-even | API cost vs. self-hosting | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-2-would-self-hosting-be-cheaper) |
 | Test item format and mix | Build a test set and compare versions item by item | [Building an evaluation test set]({% link docs/running-ai/evaluation-test-sets.md %}#what-a-test-item-looks-like) |
+| Token cost estimate | Per-request cost, with caching and batch levers | [Tokens and usage, explained]({% link docs/running-ai/tokens-and-usage.md %}#worked-example) |
 | Incident runbook | Pause, roll back, notify, fix, log | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-3-the-silent-model-change-and-the-fix) |
 
 ## For workflows
