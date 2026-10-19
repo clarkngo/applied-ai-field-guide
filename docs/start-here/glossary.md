@@ -162,7 +162,7 @@ flowchart TB
 : Ten principles for teams and organizations that make good AI habits the default, such as "make the safe path the easy path." See [Third principles of AI]({% link docs/start-here/third-principles.md %}).
 
 **Token**
-: A small chunk of text, often part of a word, that a model reads and generates. Context windows and pricing are usually measured in tokens.
+: A small chunk of text, often part of a word, that a model reads and generates. Context windows and pricing are usually measured in tokens. See [Tokens and usage, explained]({% link docs/running-ai/tokens-and-usage.md %}).
 
 **Training (on inputs)**
 : When a provider uses your inputs to improve future models. Whether this happens depends on the tool, plan, and settings.
