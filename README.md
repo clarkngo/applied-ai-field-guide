@@ -30,7 +30,7 @@ docs/
   start-here/            What is AI, first/second/third principles, should you use AI, the rubric,
                          glossary, myths and realities, 30-day learning path
   foundations/           Context engineering, how LLMs fail, data classification, human-in-the-loop, bias and ethics,
-                         AI security
+                         AI security, AI personas
   students/              Worked business tasks (break-even, cash flow, market analysis, research-to-brief,
                          business writing, spreadsheet analysis, customer feedback, financial
                          statements, presentations, career prep, negotiation practice)

@@ -88,7 +88,7 @@ flowchart TB
 
 Blue boxes are first principles and green boxes are second principles. A first principle appears more than once when it supports several rules.
 
-Every first principle leads to at least one second principle, and every second principle has at least one first principle behind it. A rule that can't be traced back this way (like "always start with 'You are an expert'") is a tip, not a principle. It might help, so test it, but don't make it policy.
+Every first principle leads to at least one second principle, and every second principle has at least one first principle behind it. A rule that can't be traced back this way (like "always start with 'You are an expert'") is a tip, not a principle. It might help, so test it, but don't make it policy. See [AI personas]({% link docs/foundations/ai-personas.md %}) for what personas do and don't change.
 
 ### From second principles to the rest of the guide
 

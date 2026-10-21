@@ -72,6 +72,8 @@ Disclosure statement: [2–4 SENTENCES]
 | Data-class rules | Which data can go into which tools | [Data classification]({% link docs/foundations/data-classification.md %}#four-data-classes) |
 | Checkpoint types | Approve each, exception, sample, or escalate | [Human-in-the-loop design]({% link docs/foundations/human-in-the-loop.md %}#four-kinds-of-checkpoint) |
 | Trifecta check | Spot setups at risk from prompt injection | [AI security and prompt injection]({% link docs/foundations/ai-security.md %}#the-dangerous-combination) |
+| Role prompt with standards, and persona panel | Get useful perspectives without "you are an expert" | [AI personas]({% link docs/foundations/ai-personas.md %}#prompt-template) |
+| App persona spec | Identity, tone, scope, boundaries, escalation, tests | [AI personas]({% link docs/foundations/ai-personas.md %}#designing-an-app-persona-the-persona-spec) |
 | Swap test | A quick bias check for people-related output | [Bias, fairness, and ethics]({% link docs/foundations/bias-and-ethics.md %}#the-swap-test) |
 | Tool evaluation scorecard | Gates and weighted criteria for choosing a tool | [Evaluating an AI tool]({% link docs/tools/evaluating-a-tool.md %}#weighted-criteria) |
 
