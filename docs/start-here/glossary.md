@@ -117,6 +117,9 @@ flowchart TB
 **Open-weight model**
 : A model whose weights are published so you can run it yourself, under its license terms.
 
+**Persona**
+: A role or character an AI is asked to adopt, in a prompt ("review as a credit officer would") or in an app (a named assistant). It changes framing and tone, not knowledge. See [AI personas]({% link docs/foundations/ai-personas.md %}).
+
 **Project**
 : A workspace in some AI tools where instructions and files persist across conversations.
 

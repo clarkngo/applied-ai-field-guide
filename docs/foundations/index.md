@@ -23,6 +23,8 @@ flowchart LR
   BE --> D
   SEC["AI security and prompt injection"] --> U
   SEC --> D
+  PER["AI personas"] --> U
+  PER --> D
   classDef use fill:#e8f0fe,stroke:#4a6fa5;
   classDef verify fill:#e6f4ea,stroke:#3c8c5a;
   classDef dd fill:#fef7e0,stroke:#b08900;
@@ -37,3 +39,4 @@ flowchart LR
 - **Human-in-the-loop design:** where people must check, approve, or decide.
 - **Bias, fairness, and ethics:** swap tests, proxies, ownership, and accountability.
 - **AI security and prompt injection:** the lethal trifecta, least access, and safe connectors.
+- **AI personas:** what role prompts change and don't, designing app personas, and simulated users.
