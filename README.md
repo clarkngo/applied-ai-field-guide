@@ -30,15 +30,18 @@ docs/
   start-here/            What is AI, first/second/third principles, should you use AI, the rubric,
                          glossary, myths and realities, 30-day learning path
   foundations/           Context engineering, how LLMs fail, data classification, human-in-the-loop, bias and ethics,
-                         AI security, AI personas
+                         AI security, AI personas, AI regulation, images/audio/video,
+                         predictive vs. generative AI
   students/              Worked business tasks (break-even, cash flow, market analysis, research-to-brief,
                          business writing, spreadsheet analysis, customer feedback, financial
-                         statements, presentations, career prep, negotiation practice)
+                         statements, presentations, career prep, negotiation practice, studying, AI tutor,
+                         marketing content, data and statistics, forecasting and A/B tests)
   educators/             Challenge design, Socratic tutor, knowledge checks, course operations,
-                         course AI policy, AI-resilient assessment, cases and data packs, accessibility
-  workflows/             Agent patterns, when to automate, meeting-to-action-items
+                         course AI policy, AI-resilient assessment, cases and data packs, accessibility,
+                         running an AI workshop
+  workflows/             Agent patterns, when to automate, meeting-to-action-items, custom assistants
   running-ai/            Hardware, software and infrastructure, skills and roles, operating AI,
-                         evaluation test sets, tokens and usage
+                         evaluation test sets, tokens and usage, choosing a model
   tools/                 Vendor-neutral learning ladder, evaluating a tool
     products/            Product landscape: named, dated examples (see rules below)
   templates/             Index of every copy-paste template and rubric, plus the AI-use log

@@ -131,7 +131,7 @@ The lesson: **use the totals to spot problems, and the item-level differences to
 
 **Disclose:** When reporting results, include the number of items and the uncertainty: *"34 of 40 (85%) on our test set. With 40 items, results within about ±11 percentage points are hard to distinguish."*
 
-**Decide:** The test set tells you how a version performs on your cases. Whether that's good enough, and which failures are acceptable, is the workflow owner's decision, informed by what's at stake.
+**Decide:** The test set tells you how a version performs on your cases. Whether that's good enough, and which failures are acceptable, is the workflow owner's decision, informed by what's at stake. The same test set is how you compare models: see [Choosing a model]({% link docs/running-ai/choosing-a-model.md %}).
 
 ## For educators: turn this into a challenge
 

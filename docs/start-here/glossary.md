@@ -50,6 +50,9 @@ flowchart TB
 **Autonomy level**
 : How much an AI step does without human approval, from 0 (a human does it) to 4 (AI acts, monitored by metrics). See [Automate or judge?]({% link docs/workflows/automate-vs-judge.md %}).
 
+**Baseline**
+: A simple comparison, such as "same as last year" or "nobody churns," that a forecast or model must beat to be worth using. See [Forecasting and A/B tests]({% link docs/students/forecasting-and-ab-tests.md %}).
+
 **BATNA**
 : Best alternative to a negotiated agreement: what you'll do if a deal fails. See [Negotiation practice]({% link docs/students/negotiation-practice.md %}).
 
@@ -58,6 +61,9 @@ flowchart TB
 
 **Connector**
 : A feature that gives an AI tool access to another system, such as your email, calendar, or file storage.
+
+**Content credentials**
+: A record attached to an image, audio, or video file showing where it came from and how it was edited, based on the open C2PA standard. See [Images, audio, and video]({% link docs/foundations/multimodal-and-deepfakes.md %}).
 
 **Context**
 : Everything the model can consider when responding: your prompt, files, instructions, and the conversation so far. See [Context engineering]({% link docs/foundations/context-engineering.md %}).
@@ -76,11 +82,17 @@ flowchart TB
 **Deep research**
 : A tool mode that searches many sources, reads them, and writes a cited report. Every citation still needs checking.
 
+**Deepfake**
+: AI-generated or AI-altered image, audio, or video that makes it look as if a real person said or did something they didn't. See [Images, audio, and video]({% link docs/foundations/multimodal-and-deepfakes.md %}).
+
 **De-identification**
 : Removing or generalizing details that identify people, such as names, emails, and account numbers, before using data.
 
 **Disclosure**
 : A clear statement of AI's role in a piece of work: what it did, what you checked, and what you changed. See [the rubric]({% link docs/start-here/rubric.md %}).
+
+**EU AI Act**
+: The European Union's AI law (Regulation (EU) 2024/1689), which sets duties based on risk: some uses are banned, some are high-risk, and some need transparency. See [AI regulation and frameworks]({% link docs/foundations/ai-regulation.md %}).
 
 **GPU**
 : Graphics processing unit, a chip built for massively parallel arithmetic, which is what running AI models mostly is. See [Hardware requirements]({% link docs/running-ai/hardware.md %}).
@@ -90,6 +102,9 @@ flowchart TB
 
 **Grounding**
 : Limiting a model's answers to specific sources you provide, usually with citations to passages. It reduces hallucination but doesn't eliminate it.
+
+**Guardrail**
+: A rule that limits what an AI tool will do, such as "never give final answers to graded work." Guardrails written in a prompt guide the model but can be worn down, so they need testing. See [Setting up an AI tutor]({% link docs/students/ai-tutor.md %}).
 
 **Hallucination**
 : A confident, plausible, false output, such as an invented statistic, citation, or quote.
@@ -104,6 +119,9 @@ flowchart TB
 
 **Inference**
 : Running a trained model to produce an output, as opposed to training it.
+
+**Leakage (data leakage)**
+: When a predictive model is trained on information it wouldn't have at prediction time, so it looks far better in testing than in real use. See [Predictive models vs. generative AI]({% link docs/foundations/predictive-vs-generative.md %}).
 
 **Knowledge cutoff**
 : The date after which a model has no training data. Unless the tool searches the web, the model doesn't know about later events.
@@ -123,8 +141,17 @@ flowchart TB
 **Project**
 : A workspace in some AI tools where instructions and files persist across conversations.
 
+**Precision and recall**
+: Two ways to score a model that flags cases. Precision: of the cases flagged, how many were right. Recall: of the real cases, how many were flagged. See [Predictive models vs. generative AI]({% link docs/foundations/predictive-vs-generative.md %}).
+
+**Predictive model**
+: A model trained on historical examples with known outcomes to produce a score, label, or forecast, such as a churn probability. See [Predictive models vs. generative AI]({% link docs/foundations/predictive-vs-generative.md %}).
+
 **Prompt**
 : The instructions and input you give a model.
+
+**p-value**
+: In a test, the chance of seeing a difference at least this large if there were really no difference. A large p-value means the result could easily be noise. See [Forecasting and A/B tests]({% link docs/students/forecasting-and-ab-tests.md %}).
 
 **Prompt injection**
 : Hidden instructions in content an AI reads, such as an email or web page, that try to take over what it does. See [AI security and prompt injection]({% link docs/foundations/ai-security.md %}).
@@ -140,6 +167,9 @@ flowchart TB
 **RAG (retrieval-augmented generation)**
 : Finding relevant passages in your documents first, then having the model answer from them. See [Software and infrastructure]({% link docs/running-ai/software-infrastructure.md %}).
 
+**Retrieval practice**
+: Learning by recalling, for example by answering quiz questions, rather than re-reading. See [Studying with AI]({% link docs/students/studying-with-ai.md %}).
+
 **Retention**
 : How long a tool's provider keeps your inputs and outputs.
 
@@ -148,6 +178,9 @@ flowchart TB
 
 **Scheduling**
 : Running an AI task automatically at set times, such as a weekly digest.
+
+**Simpson's paradox**
+: When a pattern in combined data reverses within every group, because the groups were mixed unevenly. See [Reading data and statistics]({% link docs/students/data-and-statistics.md %}).
 
 **Skill (or template)**
 : A saved, reusable set of instructions for a recurring task.

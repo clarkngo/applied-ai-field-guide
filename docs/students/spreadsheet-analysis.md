@@ -145,7 +145,7 @@ Use exact-match lookups, and don't average averages.
 
 **Disclose:** *"Formulas drafted with AI and tested against hand calculations. I corrected an average-of-averages error (the overall average is $110, not $150) and changed one lookup to exact match."*
 
-**Decide:** The spreadsheet says the average order is $110 and North's orders are twice the size of South's. Whether that means North deserves more sales attention, or that South needs a minimum order size, is the question for the meeting, and your recommendation.
+**Decide:** The spreadsheet says the average order is $110 and North's orders are twice the size of South's. Whether that means North deserves more sales attention, or that South needs a minimum order size, is the question for the meeting, and your recommendation. Before you make it, check the reasoning traps in [Reading data and statistics]({% link docs/students/data-and-statistics.md %}).
 
 ## For educators: turn this into a challenge
 

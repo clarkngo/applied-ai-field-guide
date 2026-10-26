@@ -25,12 +25,18 @@ flowchart LR
   SEC --> D
   PER["AI personas"] --> U
   PER --> D
+  REG["AI regulation and frameworks"] --> D1["DISCLOSE"]
+  REG --> D
+  MM["Images, audio, and video"] --> V
+  MM --> D1
+  PG["Predictive vs. generative AI"] --> U
+  PG --> V
   classDef use fill:#e8f0fe,stroke:#4a6fa5;
   classDef verify fill:#e6f4ea,stroke:#3c8c5a;
   classDef dd fill:#fef7e0,stroke:#b08900;
   class U use;
   class V verify;
-  class D dd;
+  class D,D1 dd;
 ```
 
 - **Context engineering:** what to give the tool so it can do the job well.
@@ -40,3 +46,6 @@ flowchart LR
 - **Bias, fairness, and ethics:** swap tests, proxies, ownership, and accountability.
 - **AI security and prompt injection:** the lethal trifecta, least access, and safe connectors.
 - **AI personas:** what role prompts change and don't, designing app personas, and simulated users.
+- **AI regulation and frameworks:** the EU AI Act, the NIST AI RMF, and ISO/IEC 42001 in plain language.
+- **Images, audio, and video:** reading and generating media, deepfakes, and how to verify.
+- **Predictive models vs. generative AI:** when you need a tested score or forecast, not a chat answer.
