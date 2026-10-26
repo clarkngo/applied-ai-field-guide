@@ -103,6 +103,9 @@ flowchart TB
 **Grounding**
 : Limiting a model's answers to specific sources you provide, usually with citations to passages. It reduces hallucination but doesn't eliminate it.
 
+**Guardrail**
+: A rule that limits what an AI tool will do, such as "never give final answers to graded work." Guardrails written in a prompt guide the model but can be worn down, so they need testing. See [Setting up an AI tutor]({% link docs/students/ai-tutor.md %}).
+
 **Hallucination**
 : A confident, plausible, false output, such as an invented statistic, citation, or quote.
 

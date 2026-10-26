@@ -154,7 +154,7 @@ Test the prompt before giving it to learners. Try it in a free-tier tool as well
 
 ## Disclose and decide notes
 
-**Disclose:** Tell learners the exact prompt you're recommending, and why. Transparency builds trust and lets them see how the tool is steered. Encourage them to include the tutor's end-of-session summary in their AI-use disclosure.
+**Disclose:** Learners who want to build and test their own tutor can use [Setting up an AI tutor]({% link docs/students/ai-tutor.md %}). Tell learners the exact prompt you're recommending, and why. Transparency builds trust and lets them see how the tool is steered. Encourage them to include the tutor's end-of-session summary in their AI-use disclosure.
 
 **Decide:** The tutor supports learning. It doesn't assess it. Don't use tutor conversations to grade, and don't require learners to share them unless your policy and privacy rules clearly allow it.
 

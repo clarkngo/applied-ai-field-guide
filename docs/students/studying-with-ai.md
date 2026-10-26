@@ -51,7 +51,7 @@ flowchart LR
 1. **Check your course policy first (Use).** Most courses allow AI for studying, but some restrict uploading course materials such as slides or exams. If in doubt, ask. See [Writing a course AI policy]({% link docs/educators/course-ai-policy.md %}) for what instructors typically decide.
 2. **Try before you ask (Use).** Write down what you remember about the topic, or attempt a problem, before AI explains anything. Your gaps become the study plan.
 3. **Ask to be quizzed, not told (Use).** Have AI ask one question at a time and wait for your answer. Mix question types: definitions, calculations, and "what would change if…" scenarios.
-4. **Get explanations for what you miss (Use).** Ask for a different explanation or a worked example, not just the right answer. A [Socratic tutor prompt]({% link docs/educators/socratic-tutor-prompt.md %}) works well here.
+4. **Get explanations for what you miss (Use).** Ask for a different explanation or a worked example, not just the right answer. A [Socratic tutor prompt]({% link docs/educators/socratic-tutor-prompt.md %}) works well here, or set up your own with [Setting up an AI tutor]({% link docs/students/ai-tutor.md %}).
 5. **Verify against your materials (Verify).** Check every formula and definition against your textbook or lecture notes. Courses differ in terms and conventions, and AI can be confidently wrong.
 6. **Space it out (Use).** Come back to the missed questions after a day, then a few days later. Keep a short list of what you missed.
 

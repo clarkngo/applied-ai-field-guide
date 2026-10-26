@@ -44,6 +44,7 @@ Start with **Break-even analysis**. It's the fully worked model for every other 
 | Prepare a résumé, cover letter, or interview | Career prep |
 | Rehearse a negotiation | Negotiation practice |
 | Prepare for an exam | Studying with AI |
+| Get tutoring that teaches instead of answering | Setting up an AI tutor |
 | Write product copy, posts, or campaign emails | Marketing content |
 | Interpret results and avoid statistics traps | Reading data and statistics |
 | Check a forecast or an A/B test | Forecasting and A/B tests |

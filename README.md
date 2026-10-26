@@ -34,7 +34,7 @@ docs/
                          predictive vs. generative AI
   students/              Worked business tasks (break-even, cash flow, market analysis, research-to-brief,
                          business writing, spreadsheet analysis, customer feedback, financial
-                         statements, presentations, career prep, negotiation practice, studying,
+                         statements, presentations, career prep, negotiation practice, studying, AI tutor,
                          marketing content, data and statistics, forecasting and A/B tests)
   educators/             Challenge design, Socratic tutor, knowledge checks, course operations,
                          course AI policy, AI-resilient assessment, cases and data packs, accessibility,

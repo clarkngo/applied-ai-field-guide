@@ -95,6 +95,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Tailoring and mock-interview prompts | Tailor from a facts file, practice with feedback | [Career prep]({% link docs/students/career-prep.md %}#prompt-template) |
 | Negotiation role-play prompt | An AI counterpart with a hidden brief and a debrief | [Negotiation practice]({% link docs/students/negotiation-practice.md %}#prompt-template) |
 | Quiz-me prompt and 10-day plan | Retrieval and spaced practice with AI as quizzer | [Studying with AI]({% link docs/students/studying-with-ai.md %}#prompt-template) |
+| Structured tutor prompt and guardrail tests | A tutor with Explainer, Coach, and Examiner modes, tested before use | [Setting up an AI tutor]({% link docs/students/ai-tutor.md %}#prompt-template) |
 | Fact-sheet copy prompt and claim inventory | Marketing drafts that use only supported claims | [Marketing content]({% link docs/students/marketing-content.md %}#prompt-template) |
 | Skeptical-analyst prompt and five traps | Check a data conclusion for hidden groups, causes, and misleading averages | [Reading data and statistics]({% link docs/students/data-and-statistics.md %}#prompt-template) |
 | Baseline check and A/B test formulas | Mean absolute error vs. a naive forecast, and a two-proportion z-test | [Forecasting and A/B tests]({% link docs/students/forecasting-and-ab-tests.md %}#prompt-template) |

@@ -2,7 +2,7 @@
 title: Reading data and statistics
 layout: default
 parent: For Students
-nav_order: 14
+nav_order: 15
 ---
 
 # Reading data and statistics with AI
