@@ -74,6 +74,9 @@ Disclosure statement: [2–4 SENTENCES]
 | Trifecta check | Spot setups at risk from prompt injection | [AI security and prompt injection]({% link docs/foundations/ai-security.md %}#the-dangerous-combination) |
 | Role prompt with standards, and persona panel | Get useful perspectives without "you are an expert" | [AI personas]({% link docs/foundations/ai-personas.md %}#prompt-template) |
 | App persona spec | Identity, tone, scope, boundaries, escalation, tests | [AI personas]({% link docs/foundations/ai-personas.md %}#designing-an-app-persona-the-persona-spec) |
+| Media verification flow | Decide when to recompute, re-check, or call back before acting on media | [Images, audio, and video]({% link docs/foundations/multimodal-and-deepfakes.md %}#the-verification-habit-for-media) |
+| Regulation triage | A first pass at which EU AI Act tier a use may fall in, before expert review | [AI regulation and frameworks]({% link docs/foundations/ai-regulation.md %}#worked-example) |
+| Precision, recall, and business case | Judge a predictive model against its base rate and the cost of errors | [Predictive models vs. generative AI]({% link docs/foundations/predictive-vs-generative.md %}#worked-example) |
 | Swap test | A quick bias check for people-related output | [Bias, fairness, and ethics]({% link docs/foundations/bias-and-ethics.md %}#the-swap-test) |
 | Tool evaluation scorecard | Gates and weighted criteria for choosing a tool | [Evaluating an AI tool]({% link docs/tools/evaluating-a-tool.md %}#weighted-criteria) |
 
@@ -91,6 +94,10 @@ Disclosure statement: [2–4 SENTENCES]
 | Storyline prompt | Message headlines first, then slide content from your evidence | [Presentations and pitch decks]({% link docs/students/presentations.md %}#prompt-template) |
 | Tailoring and mock-interview prompts | Tailor from a facts file, practice with feedback | [Career prep]({% link docs/students/career-prep.md %}#prompt-template) |
 | Negotiation role-play prompt | An AI counterpart with a hidden brief and a debrief | [Negotiation practice]({% link docs/students/negotiation-practice.md %}#prompt-template) |
+| Quiz-me prompt and 10-day plan | Retrieval and spaced practice with AI as quizzer | [Studying with AI]({% link docs/students/studying-with-ai.md %}#prompt-template) |
+| Fact-sheet copy prompt and claim inventory | Marketing drafts that use only supported claims | [Marketing content]({% link docs/students/marketing-content.md %}#prompt-template) |
+| Skeptical-analyst prompt and five traps | Check a data conclusion for hidden groups, causes, and misleading averages | [Reading data and statistics]({% link docs/students/data-and-statistics.md %}#prompt-template) |
+| Baseline check and A/B test formulas | Mean absolute error vs. a naive forecast, and a two-proportion z-test | [Forecasting and A/B tests]({% link docs/students/forecasting-and-ab-tests.md %}#prompt-template) |
 | Theme and tagging prompts | Open-ended feedback, tagged row by row and counted by formula | [Customer feedback analysis]({% link docs/students/customer-feedback-analysis.md %}#prompt-template) |
 
 ## For educators
@@ -106,6 +113,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Syllabus AI policy | Assignment-by-assignment AI levels, disclosure, and instructor use | [Writing a course AI policy]({% link docs/educators/course-ai-policy.md %}#prompt-template) |
 | Case and data pack prompt | A fictional case written around your numbers | [Creating cases and data packs]({% link docs/educators/case-and-data-packs.md %}#prompt-template) |
 | Alt text and plain-language prompts | Accessible versions that keep numbers and meaning | [Accessible and inclusive materials]({% link docs/educators/accessibility.md %}#prompt-template) |
+| Workshop agenda and task-pack prompt | A 90-minute hands-on session with planted errors and a pre/post check | [Running an AI workshop]({% link docs/educators/ai-workshop.md %}#the-90-minute-agenda) |
 | Assignment stress test | See how an AI-only submission would score, then redesign | [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %}#prompt-template) |
 
 ## For running AI
@@ -118,6 +126,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Token cost formula and break-even | API cost vs. self-hosting | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-2-would-self-hosting-be-cheaper) |
 | Test item format and mix | Build a test set and compare versions item by item | [Building an evaluation test set]({% link docs/running-ai/evaluation-test-sets.md %}#what-a-test-item-looks-like) |
 | Token cost estimate | Per-request cost, with caching and batch levers | [Tokens and usage, explained]({% link docs/running-ai/tokens-and-usage.md %}#worked-example) |
+| Model comparison sheet | Pass mark, test set, and smallest-model-that-passes selection | [Choosing a model]({% link docs/running-ai/choosing-a-model.md %}#prompt-template) |
 | Incident runbook | Pause, roll back, notify, fix, log | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-3-the-silent-model-change-and-the-fix) |
 
 ## For workflows
@@ -127,6 +136,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Autonomy planner | Assign an autonomy level and minimum access to each step | [Automate or judge?]({% link docs/workflows/automate-vs-judge.md %}#prompt-template) |
 | Meeting summary prompt | Decisions, owners, and dates, with UNCLEAR instead of guesses | [Meeting-to-action-items workflow]({% link docs/workflows/meeting-to-action-items.md %}#prompt-template) |
 | Research-to-brief pipeline spec | A repeatable agent pipeline with STOP checkpoints | [Research-to-brief pipeline]({% link docs/workflows/research-to-brief-pipeline.md %}#prompt-template) |
+| Custom assistant instructions | Source-only answers, "doesn't cover that" rule, boundaries, and tests | [Building a custom assistant]({% link docs/workflows/custom-assistant.md %}#prompt-template) |
 | Benchmarking extraction and mapping | Evidence-based coverage matrices from public pages | [Curriculum-benchmarking copilot]({% link docs/workflows/curriculum-benchmarking-copilot.md %}#prompt-template) |
 
 ## Page templates for contributors

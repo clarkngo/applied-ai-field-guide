@@ -205,7 +205,7 @@ Hand off to a person when: [ESCALATION RULES]. When you hand off, say:
 
 ## Disclose and decide notes
 
-**Disclose:** In apps, the persona itself is part of disclosure. Users should always know they're talking to an AI. In your own work, if a persona panel shaped your conclusions, say so: *"I used AI to critique the draft from three stakeholder perspectives, then made my own revisions."*
+**Disclose:** In apps, the persona itself is part of disclosure. Users should always know they're talking to an AI. In the EU, this is also a legal duty for many systems (see [AI regulation and frameworks]({% link docs/foundations/ai-regulation.md %})). In your own work, if a persona panel shaped your conclusions, say so: *"I used AI to critique the draft from three stakeholder perspectives, then made my own revisions."*
 
 **Decide:** A persona can argue a perspective. It can't hold one, or be responsible for one. Which critiques to act on, which boundaries an app enforces, and when a person must take over are all human decisions.
 
