@@ -20,7 +20,7 @@ Everything you need to know to start using AI on real work today, in about 10 mi
 
 ## The short version
 
-"AI" is a broad term. It covers everything from spam filters to self-driving cars. This guide is about **generative AI**, and specifically **large language models (LLMs)**: the systems behind chat assistants that write, summarize, analyze, and answer questions in plain language.
+"AI" is a broad term. It covers everything from spam filters to self-driving cars (see [Types of AI systems]({% link docs/foundations/types-of-ai-systems.md %}) for a map). This guide is about **generative AI**, and specifically **large language models (LLMs)**: the systems behind chat assistants that write, summarize, analyze, and answer questions in plain language.
 
 An LLM learned patterns from a very large amount of text. When you give it a message, it produces a response one small piece (a *token*) at a time, each time predicting what is most likely to come next given everything so far. That is why it is so fluent. It is also why it can be **fluently wrong**: it produces what *sounds* right, and that isn't always what *is* right.
 
