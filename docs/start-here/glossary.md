@@ -197,6 +197,9 @@ flowchart TB
 **Third principles**
 : Ten principles for teams and organizations that make good AI habits the default, such as "make the safe path the easy path." See [Third principles of AI]({% link docs/start-here/third-principles.md %}).
 
+**Total cost of ownership**
+: Everything an option costs over a set period: licenses, usage, setup, maintenance, staff time, review, and exit, not just the sticker price. See [Build, buy, or configure]({% link docs/running-ai/build-buy-configure.md %}).
+
 **Token**
 : A small chunk of text, often part of a word, that a model reads and generates. Context windows and pricing are usually measured in tokens. See [Tokens and usage, explained]({% link docs/running-ai/tokens-and-usage.md %}).
 
