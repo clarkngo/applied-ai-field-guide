@@ -28,7 +28,7 @@ The draft is lively and on time. It also says the blend is organic (it isn't), q
 
 Marketing copy is public, persuasive, and attached to your company's name. AI is excellent at producing it quickly, and that's the risk: given little information, it fills gaps with the kind of claims that appear in marketing everywhere. "Award-winning," "organic," "loved by thousands," and glowing reviews are what such copy usually contains, so that's what the model predicts.
 
-Unsupported claims can mislead customers, damage trust, and create legal exposure. In many places, advertising claims must be truthful and backed by evidence, and fake reviews and testimonials are prohibited. <!-- TODO: source --> Your job is to make sure every claim is something the business can stand behind.
+Unsupported claims can mislead customers, damage trust, and create legal exposure. In many places, advertising claims must be truthful and backed by evidence, and fake reviews and testimonials are prohibited. In the U.S., the Federal Trade Commission requires advertisers to have "a reasonable basis" for claims before they run them, and a 2024 FTC rule bans fake consumer reviews and testimonials, including ones from reviewers who don't exist. In the EU, submitting or commissioning false consumer reviews is listed as an unfair commercial practice. Rules differ by country and industry, so check with your organization for anything regulated. Your job is to make sure every claim is something the business can stand behind.
 
 ## AI-assisted approach
 
@@ -130,3 +130,11 @@ For the email, the team tested two subject lines on 1,000 subscribers each. Line
 ## For educators: turn this into a challenge
 
 Give teams a one-page fact sheet for a fictional product and an AI-written launch kit (product page, three posts, an email) containing six planted unsupported claims: one certification, one statistic, one health claim, one fake testimonial, one competitor comparison, and one wrong price. Teams submit a claim inventory and a corrected kit. Score on claims caught, plus quality of the final copy. Debrief: *Which claims felt so normal that you almost missed them?* See [Designing an AI-fluency challenge]({% link docs/educators/ai-fluency-challenge.md %}).
+
+---
+
+**Sources** (checked 2026-11-04)
+
+- Federal Trade Commission. (1984). *FTC policy statement regarding advertising substantiation*. https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation
+- Federal Trade Commission. Rule on the use of consumer reviews and testimonials, 16 C.F.R. Part 465 (2024). https://www.ecfr.gov/current/title-16/chapter-I/subchapter-D/part-465
+- Directive 2005/29/EC (Unfair Commercial Practices Directive), Annex I, points 23b–23c, as amended by Directive (EU) 2019/2161. EUR-Lex: https://eur-lex.europa.eu/eli/dir/2005/29/oj

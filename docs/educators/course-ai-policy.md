@@ -131,7 +131,7 @@ group members with different practices). List the questions only.
 |:--|:--|:--|
 | **One rule for everything** | "AI is not permitted," even for brainstorming | Set a level per assignment. |
 | **Vague terms** | "Appropriate use" with no definition | Use the four levels and give examples. |
-| **Relying on detectors** | Treating an AI-detection score as proof of misconduct | Detection tools can be wrong, including false positives on genuine work. Never use a score as the only evidence. <!-- TODO: source on AI-text detector reliability --> Design assessments that don't depend on detection instead (see [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %})). |
+| **Relying on detectors** | Treating an AI-detection score as proof of misconduct | Detection tools can be wrong, including false positives on genuine work: one test of 14 tools found them "neither accurate nor reliable" (Weber-Wulff et al., 2023), and detectors often flag non-native English writing as AI-generated (Liang et al., 2023). Never use a score as the only evidence. Design assessments that don't depend on detection instead (see [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %})). |
 | **Forgotten edge cases** | Grammar checkers, translation tools, and AI features built into everyday software | Name them explicitly. |
 | **Policy hidden in the syllabus** | Learners never read it | Repeat the level in each assignment brief, and discuss it in week one. |
 | **No instructor disclosure** | Learners must disclose, but the instructor doesn't | Model the behavior you're asking for. |
@@ -145,3 +145,10 @@ group members with different practices). List the questions only.
 ## For educators: turn this into a challenge
 
 In a faculty or trainer workshop, each participant brings one real syllabus. In 30 minutes, they assign an AI level to every assessment and write the reason in one sentence. Pairs then swap and try to "break" each other's policy with edge-case questions, using the edge-case test prompt. Debrief: *Which assessment was hardest to classify? What did that reveal about what it's really measuring?* See [Designing an AI-fluency challenge]({% link docs/educators/ai-fluency-challenge.md %}).
+
+---
+
+**References**
+
+- Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers. *Patterns, 4*(7), 100779. https://doi.org/10.1016/j.patter.2023.100779
+- Weber-Wulff, D., Anohina-Naumeca, A., Bjelobaba, S., Foltýnek, T., Guerrero-Dib, J., Popoola, O., Šigut, P., & Waddington, L. (2023). Testing of detection tools for AI-generated text. *International Journal for Educational Integrity, 19*, 26. https://doi.org/10.1007/s40979-023-00146-z
