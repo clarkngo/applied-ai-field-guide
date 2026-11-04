@@ -35,7 +35,7 @@ An AI-fluency challenge sits between these. It assumes AI is in the room and mak
 
 ### Design principles
 
-1. **Practice first.** Start learners on a realistic task before the lecture, and bring in concepts as they need them. This is sometimes called "flipping Bloom's taxonomy": starting from applying and evaluating rather than from remembering. <!-- TODO: source for "flipped Bloom's" framing --> The debrief is where concepts get named and organized.
+1. **Practice first.** Start learners on a realistic task before the lecture, and bring in concepts as they need them. Research on problem solving before instruction supports this order: a meta-analysis of 53 studies found that, on average, learners who tried problems first and were taught afterward learned more than those taught first, though the reverse held for young children (Sinha & Kapur, 2021). The debrief is where concepts get named and organized.
 2. **Use a real business task, not a quiz question.** It should end in a decision someone would actually make, such as open or don't open, price A or price B, or hire or wait.
 3. **Make AI use expected and visible.** Require an AI log. Don't try to detect AI use; design so that using it well is the assignment.
 4. **Plant a trap.** Include one detail that current AI tools tend to get wrong: a price-linked cost, a mixed time period, a misleading statistic, or an ambiguous instruction. Test it yourself first.
@@ -181,3 +181,4 @@ This page *is* the challenge template. To run it as a **faculty or trainer works
 
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380.
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255.
+- Sinha, T., & Kapur, M. (2021). When problem solving followed by instruction works: Evidence for productive failure. *Review of Educational Research, 91*(5), 761–798. https://doi.org/10.3102/00346543211019105

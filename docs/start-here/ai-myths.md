@@ -67,7 +67,7 @@ mindmap
 | 7 | **"It learns from my chat instantly."** | The model itself doesn't change during your conversation. Separately, a tool may *store* your chats or memories, and may use them for training, depending on settings. | First principle 9: shared data leaves your control |
 | 8 | **"Running our own model is free and private."** | Self-hosting has hardware, staff, and security costs, and is only private if every component is set up that way. | See [Running AI]({% link docs/running-ai/index.md %}). |
 | 9 | **"Using AI is always cheating."** | It depends on the assignment's purpose and the stated policy. Many tasks expect AI use with disclosure. | See [Writing a course AI policy]({% link docs/educators/course-ai-policy.md %}). |
-| 10 | **"AI detectors can reliably tell."** | Detection tools can be wrong, including flagging genuine work. A score alone isn't evidence. <!-- TODO: source on AI-text detector reliability --> | See [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %}). |
+| 10 | **"AI detectors can reliably tell."** | Detection tools can be wrong, including flagging genuine work. A test of 14 tools found them "neither accurate nor reliable" (Weber-Wulff et al., 2023), and detectors often misclassify writing by non-native English speakers as AI-generated (Liang et al., 2023). A score alone isn't evidence. | See [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %}). |
 
 ### How to correct a myth in a meeting
 
@@ -117,3 +117,10 @@ The meeting moves on in five minutes, with three concrete actions instead of an 
 ## For educators: turn this into a challenge
 
 Run **"Myth or reality?"** Read out 10–12 statements about AI, mixing myths with true statements such as "outputs can vary for the same prompt." Teams vote, then have to justify each answer with a first principle. Award points for the reasoning, not just the vote. Debrief: *Which myth did most people believe? Where did it come from?* Use it as a spaced [knowledge check]({% link docs/educators/scenario-knowledge-checks.md %}) a week later. See [Designing an AI-fluency challenge]({% link docs/educators/ai-fluency-challenge.md %}).
+
+---
+
+**References**
+
+- Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers. *Patterns, 4*(7), 100779. https://doi.org/10.1016/j.patter.2023.100779
+- Weber-Wulff, D., Anohina-Naumeca, A., Bjelobaba, S., Foltýnek, T., Guerrero-Dib, J., Popoola, O., Šigut, P., & Waddington, L. (2023). Testing of detection tools for AI-generated text. *International Journal for Educational Integrity, 19*, 26. https://doi.org/10.1007/s40979-023-00146-z

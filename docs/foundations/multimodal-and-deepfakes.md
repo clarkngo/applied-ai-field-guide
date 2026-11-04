@@ -79,7 +79,7 @@ Defenses that work don't depend on spotting the fake:
 3. **Code words.** Small teams can agree on a phrase for urgent requests.
 4. **Permission to slow down.** Leaders say in advance that they'll never punish someone for verifying.
 
-Tools that claim to detect deepfakes give probabilities, not proof, and they miss new techniques. <!-- TODO: source --> Treat a detector as one signal, never as the deciding check.
+Tools that claim to detect deepfakes give probabilities, not proof, and they miss new techniques. The organizers of a large public detection challenge concluded that detection is "extremely difficult and still an unsolved problem" (Dolhansky et al., 2020). A later benchmark of real deepfakes circulating in 2024 found that open-source detectors performed far worse than on older academic test sets (Chandra et al., 2025). Treat a detector as one signal, never as the deciding check.
 
 ### Provenance and labels
 
@@ -150,3 +150,10 @@ xychart-beta
 ## For educators: turn this into a challenge
 
 Prepare a packet of six items: two photographed receipts (one with an extraction error), a short audio clip with an AI transcript containing one wrong number, an AI-generated product image with garbled text, and a fictional "urgent request from the dean" email with a voice-note link. Teams decide what to trust, what to check, and how, and write the standing rule they'd adopt for each. Debrief: *Which checks depended on spotting the fake, and which worked even if you couldn't tell?* See [Designing an AI-fluency challenge]({% link docs/educators/ai-fluency-challenge.md %}).
+
+---
+
+**References**
+
+- Chandra, N. A., Lee, H., Murtfeldt, R., Qiu, L., Karmakar, A., Tanumihardja, E., Farhat, K., Caffee, B., Lee, C., Choi, J., Paik, S., Kim, A., & Etzioni, O. (2025). *Deepfake-Eval-2024: A multi-modal in-the-wild benchmark of deepfakes circulated in 2024* [Preprint]. arXiv. https://arxiv.org/abs/2503.02857
+- Dolhansky, B., Bitton, J., Pflaum, B., Lu, J., Howes, R., Wang, M., & Canton Ferrer, C. (2020). *The DeepFake Detection Challenge (DFDC) dataset* [Preprint]. arXiv. https://arxiv.org/abs/2006.07397
