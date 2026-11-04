@@ -10,45 +10,43 @@ has_children: true
 The concepts underneath every task in this guide. Read these when a task page sends you here, or all at once if you want the full picture.
 {: .fs-6 .fw-300 }
 
-Each foundation supports one or more habits in the rubric:
+Each foundation is grouped under the rubric habit it supports most. Most support more than one.
 
 ```mermaid
-flowchart LR
-  CE["Context engineering"] --> U["USE"]
-  DC["Data classification"] --> U
-  LF["How LLMs fail"] --> V["VERIFY"]
-  HL["Human-in-the-loop design"] --> V
-  HL --> D["DECIDE"]
-  BE["Bias, fairness, and ethics"] --> V
-  BE --> D
-  SEC["AI security and prompt injection"] --> U
-  SEC --> D
-  PER["AI personas"] --> U
-  PER --> D
-  REG["AI regulation and frameworks"] --> D1["DISCLOSE"]
-  REG --> D
-  MM["Images, audio, and video"] --> V
-  MM --> D1
-  PG["Predictive vs. generative AI"] --> U
-  PG --> V
-  TY["Types of AI systems"] --> U
-  TY --> V
-  classDef use fill:#e8f0fe,stroke:#4a6fa5;
-  classDef verify fill:#e6f4ea,stroke:#3c8c5a;
-  classDef dd fill:#fef7e0,stroke:#b08900;
-  class U use;
-  class V verify;
-  class D,D1 dd;
+mindmap
+  root(("Foundations"))
+    USE: right tool, right context
+      Context engineering
+      Data classification
+      Types of AI systems
+      Predictive vs. generative AI
+      AI personas
+    VERIFY: check what comes back
+      How LLMs fail
+      Images, audio, and video
+      Bias, fairness, and ethics
+    DISCLOSE and DECIDE: own the result
+      Human-in-the-loop design
+      AI security and prompt injection
+      AI regulation and frameworks
 ```
 
+**Use: choose the right tool and give it the right context**
+
 - **Context engineering:** what to give the tool so it can do the job well.
-- **How LLMs fail:** hallucination, bad math, stale data, and how to catch each.
 - **Data classification:** what may go into which tool.
-- **Human-in-the-loop design:** where people must check, approve, or decide.
-- **Bias, fairness, and ethics:** swap tests, proxies, ownership, and accountability.
-- **AI security and prompt injection:** the lethal trifecta, least access, and safe connectors.
-- **AI personas:** what role prompts change and don't, designing app personas, and simulated users.
-- **AI regulation and frameworks:** the EU AI Act, the NIST AI RMF, and ISO/IEC 42001 in plain language.
-- **Images, audio, and video:** reading and generating media, deepfakes, and how to verify.
-- **Predictive models vs. generative AI:** when you need a tested score or forecast, not a chat answer.
 - **Types of AI systems:** rules, predictive, perception, generative, and optimization, plus how generative systems are assembled, from plain chat to agents.
+- **Predictive models vs. generative AI:** when you need a tested score or forecast, not a chat answer.
+- **AI personas:** what role prompts change and don't, designing app personas, and simulated users.
+
+**Verify: check what comes back**
+
+- **How LLMs fail:** hallucination, bad math, stale data, and how to catch each.
+- **Images, audio, and video:** reading and generating media, deepfakes, and how to verify.
+- **Bias, fairness, and ethics:** swap tests, proxies, ownership, and accountability.
+
+**Disclose and decide: be open about AI's role, and own the result**
+
+- **Human-in-the-loop design:** where people must check, approve, or decide.
+- **AI security and prompt injection:** the lethal trifecta, least access, and safe connectors.
+- **AI regulation and frameworks:** the EU AI Act, the NIST AI RMF, and ISO/IEC 42001 in plain language.
