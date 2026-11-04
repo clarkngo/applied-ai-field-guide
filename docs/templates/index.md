@@ -128,6 +128,8 @@ Disclosure statement: [2–4 SENTENCES]
 | Test item format and mix | Build a test set and compare versions item by item | [Building an evaluation test set]({% link docs/running-ai/evaluation-test-sets.md %}#what-a-test-item-looks-like) |
 | Token cost estimate | Per-request cost, with caching and batch levers | [Tokens and usage, explained]({% link docs/running-ai/tokens-and-usage.md %}#worked-example) |
 | Model comparison sheet | Pass mark, test set, and smallest-model-that-passes selection | [Choosing a model]({% link docs/running-ai/choosing-a-model.md %}#prompt-template) |
+| Demo-to-dependable check | Ten questions before an AI tool goes from demo to daily use | [From demo to dependable]({% link docs/running-ai/demo-to-dependable.md %}#the-10-point-check) |
+| Build, buy, or configure cost table | Three-year totals with the same rows for every option, including staff time | [Build, buy, or configure]({% link docs/running-ai/build-buy-configure.md %}#count-the-total-cost) |
 | Incident runbook | Pause, roll back, notify, fix, log | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-3-the-silent-model-change-and-the-fix) |
 
 ## For workflows

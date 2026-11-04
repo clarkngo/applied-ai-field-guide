@@ -41,7 +41,8 @@ docs/
                          running an AI workshop
   workflows/             Agent patterns, when to automate, meeting-to-action-items, custom assistants
   running-ai/            Hardware, software and infrastructure, skills and roles, operating AI,
-                         evaluation test sets, tokens and usage, choosing a model
+                         evaluation test sets, tokens and usage, choosing a model, demo to
+                         dependable, build/buy/configure
   tools/                 Vendor-neutral learning ladder, evaluating a tool
     products/            Product landscape: named, dated examples (see rules below)
   templates/             Index of every copy-paste template and rubric, plus the AI-use log

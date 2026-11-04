@@ -58,7 +58,7 @@ flowchart LR
 | **Cost pattern** | Per user, per month | Pay per use (tokens) | Mostly fixed: hardware plus staff time |
 | **Best for** | Individuals and most teams | Repeatable workflows built into your systems | High volume, strict data needs, or offline use |
 
-Moving right on the table gives you more **control** and more **responsibility**. Most organizations should start on the left and move right only for a specific reason.
+Moving right on the table gives you more **control** and more **responsibility**. Most organizations should start on the left and move right only for a specific reason. Whether to buy a product, configure a tool you have, or build your own is a separate choice: see [Build, buy, or configure]({% link docs/running-ai/build-buy-configure.md %}).
 
 ## Which one fits?
 
@@ -90,5 +90,7 @@ flowchart TD
 - **Tokens and usage, explained:** what tokens are, chat-app limits vs. API billing, and how to answer "what does it cost?"
 - **Building an evaluation test set:** how to tell whether a workflow is good enough, and whether a change helped.
 - **Choosing a model:** test a few candidates on your own examples and pick the smallest one that passes.
+- **From demo to dependable:** a 10-point check that tells an impressive demo from a tool people can rely on.
+- **Build, buy, or configure:** compare the three ways to get an AI capability on total cost, control, and upkeep.
 
 These pages connect to the rest of the guide. [Data classification]({% link docs/foundations/data-classification.md %}) decides which option your data allows. [Human-in-the-loop design]({% link docs/foundations/human-in-the-loop.md %}) and [Automate or judge?]({% link docs/workflows/automate-vs-judge.md %}) decide how much oversight a workflow needs. The [third principles]({% link docs/start-here/third-principles.md %}) apply to whoever operates the system.

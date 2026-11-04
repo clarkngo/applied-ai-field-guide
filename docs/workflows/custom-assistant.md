@@ -120,6 +120,8 @@ The assistant launched with a line at the top of every answer, *"AI assistant. A
 {: .note }
 **Educators:** the same pattern works for a course FAQ assistant built from your syllabus and schedule. Test it with the questions students actually ask, including ones the syllabus doesn't answer, and tell students what it can and can't do. See [AI in course operations]({% link docs/educators/course-operations.md %}).
 
+Before sharing it widely, run it through the [demo-to-dependable check]({% link docs/running-ai/demo-to-dependable.md %}). For whether to configure, buy, or build in the first place, see [Build, buy, or configure]({% link docs/running-ai/build-buy-configure.md %}).
+
 ## Verify checklist
 
 - [ ] The assistant has one clearly defined job and audience.
