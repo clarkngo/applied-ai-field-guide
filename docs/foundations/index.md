@@ -31,6 +31,8 @@ flowchart LR
   MM --> D1
   PG["Predictive vs. generative AI"] --> U
   PG --> V
+  TY["Types of AI systems"] --> U
+  TY --> V
   classDef use fill:#e8f0fe,stroke:#4a6fa5;
   classDef verify fill:#e6f4ea,stroke:#3c8c5a;
   classDef dd fill:#fef7e0,stroke:#b08900;
@@ -49,3 +51,4 @@ flowchart LR
 - **AI regulation and frameworks:** the EU AI Act, the NIST AI RMF, and ISO/IEC 42001 in plain language.
 - **Images, audio, and video:** reading and generating media, deepfakes, and how to verify.
 - **Predictive models vs. generative AI:** when you need a tested score or forecast, not a chat answer.
+- **Types of AI systems:** rules, predictive, perception, generative, and optimization, plus how generative systems are assembled, from plain chat to agents.

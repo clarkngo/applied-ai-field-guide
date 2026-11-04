@@ -129,6 +129,8 @@ Targeting with the model comes out ahead; blanket discounts lose money. The resu
 
 **And the chat assistant's list of 12?** It may contain good hunches, but it can't be trusted until it's been tested the same way: on past customers whose outcomes are known. The manager keeps the assistant for what it's good at: explaining the model's results and drafting the retention email.
 
+For the wider map, including rules, perception, and optimization systems, see [Types of AI systems]({% link docs/foundations/types-of-ai-systems.md %}).
+
 ## Verify checklist
 
 - [ ] I'm clear whether this task needs a score or label (predictive) or content (generative).

@@ -77,6 +77,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Media verification flow | Decide when to recompute, re-check, or call back before acting on media | [Images, audio, and video]({% link docs/foundations/multimodal-and-deepfakes.md %}#the-verification-habit-for-media) |
 | Regulation triage | A first pass at which EU AI Act tier a use may fall in, before expert review | [AI regulation and frameworks]({% link docs/foundations/ai-regulation.md %}#worked-example) |
 | Precision, recall, and business case | Judge a predictive model against its base rate and the cost of errors | [Predictive models vs. generative AI]({% link docs/foundations/predictive-vs-generative.md %}#worked-example) |
+| Five questions for any "AI" pitch | Identify the kind of system, its data, testing, failure costs, and override | [Types of AI systems]({% link docs/foundations/types-of-ai-systems.md %}#five-questions-for-any-ai-pitch) |
 | Swap test | A quick bias check for people-related output | [Bias, fairness, and ethics]({% link docs/foundations/bias-and-ethics.md %}#the-swap-test) |
 | Tool evaluation scorecard | Gates and weighted criteria for choosing a tool | [Evaluating an AI tool]({% link docs/tools/evaluating-a-tool.md %}#weighted-criteria) |
 

@@ -167,6 +167,9 @@ flowchart TB
 **RAG (retrieval-augmented generation)**
 : Finding relevant passages in your documents first, then having the model answer from them. See [Software and infrastructure]({% link docs/running-ai/software-infrastructure.md %}).
 
+**Rule-based system**
+: Software that follows if-then rules people wrote, rather than learning from data. Often sold as "AI," and often the right choice when the logic is clear and stable. See [Types of AI systems]({% link docs/foundations/types-of-ai-systems.md %}).
+
 **Retrieval practice**
 : Learning by recalling, for example by answering quiz questions, rather than re-reading. See [Studying with AI]({% link docs/students/studying-with-ai.md %}).
 
