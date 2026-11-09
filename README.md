@@ -28,7 +28,7 @@ This is an independent professional reference by [Clark Ngo](https://clarkngo.gi
 index.md                 Home page
 docs/
   start-here/            What is AI, first/second/third principles, should you use AI, the rubric,
-                         glossary, myths and realities, 30-day learning path
+                         glossary, myths and realities, 30-day learning path, trusting your own judgment
   foundations/           Context engineering, how LLMs fail, data classification, human-in-the-loop, bias and ethics,
                          AI security, AI personas, AI regulation, images/audio/video,
                          predictive vs. generative AI, types of AI systems

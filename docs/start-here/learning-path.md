@@ -105,7 +105,7 @@ Ten hours in, she has four logged uses, three caught errors, and a clear next st
 
 **Disclose:** Your AI-use logs from these four weeks are a good record if you ever need to show how you use AI responsibly, for example in a job interview.
 
-**Decide:** The path is a suggestion. If one area matters more for your work, such as spreadsheets or course policies, spend extra time there.
+**Decide:** The path is a suggestion. If one area matters more for your work, such as spreadsheets or course policies, spend extra time there. After the 30 days, if you notice you can't start without AI, see [Trusting your own judgment]({% link docs/start-here/trusting-yourself.md %}).
 
 ## For educators: turn this into a challenge
 

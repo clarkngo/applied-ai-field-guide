@@ -54,7 +54,7 @@ The [full rubric]({% link docs/start-here/rubric.md %}) describes what beginning
 
 ## How the guide is organized
 
-- **[Start Here]({% link docs/start-here/index.md %})**: what AI is, a 30-day learning path, myths and realities, first, second, and third principles, whether to use it, the rubric, and a glossary.
+- **[Start Here]({% link docs/start-here/index.md %})**: what AI is, a 30-day learning path, myths and realities, first, second, and third principles, whether to use it, the rubric, trusting your own judgment, and a glossary.
 - **[Foundations]({% link docs/foundations/index.md %})**: context engineering, how LLMs fail, data classification, human-in-the-loop design, bias and ethics, AI security, AI personas, AI regulation, images and deepfakes, predictive vs. generative AI, and a map of the types of AI systems.
 - **[For Students]({% link docs/students/index.md %})**: worked business tasks.
 - **[For Educators]({% link docs/educators/index.md %})**: challenge design, a Socratic tutor prompt, knowledge checks, course operations, course AI policies, AI-resilient assessment, case creation, accessibility, running an AI workshop.

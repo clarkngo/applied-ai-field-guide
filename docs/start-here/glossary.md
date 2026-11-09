@@ -45,7 +45,7 @@ flowchart TB
 : A model's tendency to agree with the user, accept false premises, or change a correct answer when pushed. See [How LLMs fail]({% link docs/foundations/how-llms-fail.md %}).
 
 **Automation bias**
-: Over-trusting automated output, so that reviewers approve it without really checking. See [Human-in-the-loop design]({% link docs/foundations/human-in-the-loop.md %}).
+: Over-trusting automated output, so that reviewers approve it without really checking. See [Human-in-the-loop design]({% link docs/foundations/human-in-the-loop.md %}) and [Trusting your own judgment]({% link docs/start-here/trusting-yourself.md %}).
 
 **Autonomy level**
 : How much an AI step does without human approval, from 0 (a human does it) to 4 (AI acts, monitored by metrics). See [Automate or judge?]({% link docs/workflows/automate-vs-judge.md %}).
@@ -58,6 +58,9 @@ flowchart TB
 
 **Chat assistant**
 : An application that lets you talk to a language model in conversation, often with extras like file upload, web search, or code execution.
+
+**Cognitive offloading**
+: Using tools, such as notes, calculators, or AI, to reduce the mental effort a task takes. Often sensible; a problem when it means you stop practicing skills you need. See [Trusting your own judgment]({% link docs/start-here/trusting-yourself.md %}).
 
 **Connector**
 : A feature that gives an AI tool access to another system, such as your email, calendar, or file storage.
