@@ -135,6 +135,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Build, buy, or configure cost table | Three-year totals with the same rows for every option, including staff time | [Build, buy, or configure]({% link docs/running-ai/build-buy-configure.md %}#count-the-total-cost) |
 | Leadership decision brief | Decision first, then problem, evidence, failures, cost, risks, and a plan with a stop condition | [Explaining AI to leaders]({% link docs/running-ai/explaining-ai-to-leaders.md %}#prompt-template) |
 | Three rules for staff | One-page rules: approved tools, off-limits data, check before sending, say when AI helped | [Explaining AI to your team]({% link docs/running-ai/explaining-ai-to-your-team.md %}#three-rules-not-a-policy-manual) |
+| "How we use AI" client statement | Tools, tasks, client data, checks, pricing, and opt-out on one page | [Explaining AI to clients]({% link docs/running-ai/explaining-ai-to-clients.md %}#prompt-template) |
 | Incident runbook | Pause, roll back, notify, fix, log | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-3-the-silent-model-change-and-the-fix) |
 
 ## For workflows

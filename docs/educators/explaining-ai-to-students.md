@@ -32,6 +32,8 @@ People have always handed mental work to tools, which researchers call **cogniti
 
 A first-week conversation also shapes trust. Students who expect to be accused will hide their AI use. Students who know the rules and the reasons will usually follow them and ask when unsure.
 
+For other audiences, see [Explaining AI to others]({% link docs/start-here/explaining-ai-to-others.md %}).
+
 ## AI-assisted approach
 
 ```mermaid
