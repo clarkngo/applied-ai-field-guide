@@ -93,5 +93,6 @@ flowchart TD
 - **From demo to dependable:** a 10-point check that tells an impressive demo from a tool people can rely on.
 - **Build, buy, or configure:** compare the three ways to get an AI capability on total cost, control, and upkeep.
 - **Explaining AI to leaders:** brief executives so they can decide, with a one-page decision brief, honest failures, and total costs.
+- **Explaining AI to your team:** introduce AI to non-technical staff by answering their worries, showing it on their own work, and keeping the rules to one page.
 
 These pages connect to the rest of the guide. [Data classification]({% link docs/foundations/data-classification.md %}) decides which option your data allows. [Human-in-the-loop design]({% link docs/foundations/human-in-the-loop.md %}) and [Automate or judge?]({% link docs/workflows/automate-vs-judge.md %}) decide how much oversight a workflow needs. The [third principles]({% link docs/start-here/third-principles.md %}) apply to whoever operates the system.

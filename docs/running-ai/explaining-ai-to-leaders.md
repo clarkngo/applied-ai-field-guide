@@ -255,7 +255,7 @@ Check the draft line by line against your notes. Models tend to round numbers up
 
 **Disclose:** Say how the evidence was gathered: *"Tested on 40 past requests, with correct urgency confirmed by the maintenance manager."* If AI helped draft the brief, follow your organization's norms. The numbers and the recommendation should be yours, and you should be able to defend every line.
 
-**Decide:** You recommend, leaders decide. Make it easy for them to say yes to something limited and reversible, and make it clear what would make you recommend stopping. After the decision, report back on schedule, including the results that weren't good. See [From demo to dependable]({% link docs/running-ai/demo-to-dependable.md %}) for what to check before a pilot becomes a rollout.
+**Decide:** You recommend, leaders decide. Make it easy for them to say yes to something limited and reversible, and make it clear what would make you recommend stopping. After the decision, report back on schedule, including the results that weren't good. See [From demo to dependable]({% link docs/running-ai/demo-to-dependable.md %}) for what to check before a pilot becomes a rollout, and [Explaining AI to your team]({% link docs/running-ai/explaining-ai-to-your-team.md %}) for introducing it to the people who'll use it.
 
 ## For educators: turn this into a challenge
 
