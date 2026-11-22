@@ -118,6 +118,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Alt text and plain-language prompts | Accessible versions that keep numbers and meaning | [Accessible and inclusive materials]({% link docs/educators/accessibility.md %}#prompt-template) |
 | Workshop agenda and task-pack prompt | A 90-minute hands-on session with planted errors and a pre/post check | [Running an AI workshop]({% link docs/educators/ai-workshop.md %}#the-90-minute-agenda) |
 | Assignment stress test | See how an AI-only submission would score, then redesign | [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %}#prompt-template) |
+| AI statement for creative work | Commissioning, imitation, artists' work as input, labeling, credit | [Talking about AI with artists]({% link docs/start-here/explaining-ai-to-artists.md %}#prompt-template) |
 | Family letter about AI | One page for parents: tool, rules by assignment, student information, concerns, a habit for home, contact | [Explaining AI to parents]({% link docs/educators/explaining-ai-to-parents.md %}#prompt-template) |
 | Program assessment audit | Rate each assessment: could AI produce the evidence? Keep, add checks, or redesign | [What a degree is for]({% link docs/educators/what-a-degree-is-for.md %}#prompt-template) |
 | Programming assignment stress test and explain-the-code questions | Run assignments through AI before the term; questions for five-minute checks | [Teaching computing when AI writes code]({% link docs/educators/teaching-computing-with-ai.md %}#prompt-template) |
@@ -139,6 +140,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Leadership decision brief | Decision first, then problem, evidence, failures, cost, risks, and a plan with a stop condition | [Explaining AI to leaders]({% link docs/running-ai/explaining-ai-to-leaders.md %}#prompt-template) |
 | Three rules for staff | One-page rules: approved tools, off-limits data, check before sending, say when AI helped | [Explaining AI to your team]({% link docs/running-ai/explaining-ai-to-your-team.md %}#three-rules-not-a-policy-manual) |
 | "How we use AI" client statement | Tools, tasks, client data, checks, pricing, and opt-out on one page | [Explaining AI to clients]({% link docs/running-ai/explaining-ai-to-clients.md %}#prompt-template) |
+| Board AI paper | Inventory, risk view, measures, incidents, and decisions requested | [Explaining AI to a board]({% link docs/running-ai/explaining-ai-to-a-board.md %}#prompt-template) |
 | Incident runbook | Pause, roll back, notify, fix, log | [Operating AI]({% link docs/running-ai/operating-ai.md %}#part-3-the-silent-model-change-and-the-fix) |
 
 ## For workflows

@@ -44,29 +44,33 @@ Explaining AI well is also a test of your own understanding. If you can't say pl
 mindmap
   root(("Explaining AI"))
     Leaders
-      Need to decide
-      Brief, evidence, cost, stop condition
+      Decide
+    A board
+      Oversee
     Your team
-      Need to work safely
-      Worries, own tasks, three rules
+      Work safely
     Students
-      Need to learn
-      Why learn, live failure, rules per assignment
+      Learn
     Parents
-      Need to know their child is OK
-      Rules, safety, one habit at home
+      Know their child is OK
     Clients
-      Need to trust you
-      Data, quality checks, honest pricing
+      Trust your work
+    Skeptics
+      Be heard
+    Artists
+      Trust your commitments
 ```
 
 | Audience | What they need | What they're usually worried about | Page |
 |:--|:--|:--|:--|
 | **Leaders** | Enough to decide: fund, approve, limit, or stop | Cost, risk, and whether it actually works | [Explaining AI to leaders]({% link docs/running-ai/explaining-ai-to-leaders.md %}) |
+| **A board** | Enough to oversee: who's accountable, what the risks are, whether bad news reaches them | Unknown AI uses, accountability, legal and reputational exposure | [Explaining AI to a board]({% link docs/running-ai/explaining-ai-to-a-board.md %}) |
 | **Your team** | Enough to use it safely and with confidence | Their jobs, blame, and what's allowed | [Explaining AI to your team]({% link docs/running-ai/explaining-ai-to-your-team.md %}) |
 | **Students** | Enough to learn with it, not instead of learning | Being accused of cheating, falling behind | [Explaining AI to students]({% link docs/educators/explaining-ai-to-students.md %}) |
 | **Parents** | Enough to know their child is learning, safe, and treated fairly | Cheating, data and safety, whether their child still learns | [Explaining AI to parents]({% link docs/educators/explaining-ai-to-parents.md %}) |
 | **Clients** | Enough to trust your work and your handling of their data | Confidentiality, quality, and price | [Explaining AI to clients]({% link docs/running-ai/explaining-ai-to-clients.md %}) |
+| **Skeptics** | To be heard, and to see their real concerns acted on | Accuracy, consent, energy, jobs, over-reliance | [Talking about AI with skeptics]({% link docs/start-here/explaining-ai-to-skeptics.md %}) |
+| **Artists and creative professionals** | Honest, specific commitments about how their work and field are treated | Consent, compensation, imitation, credit | [Talking about AI with artists]({% link docs/start-here/explaining-ai-to-artists.md %}) |
 
 ### For an audience not listed
 
@@ -76,7 +80,7 @@ Ask three questions before you explain anything:
 2. **What are they worried about?** If you don't know, ask them before you explain.
 3. **What's the one failure they should see?** Pick the one most relevant to their situation.
 
-For example, a **board** needs the leaders' brief, focused on oversight: who owns it, how results are reported, and what would stop it. **Customers** using an AI assistant need to know it's AI, what it can and can't do, and how to reach a person.
+For example, **customers** using an AI assistant need to know it's AI, what it can and can't do, and how to reach a person.
 
 ## Worked example
 

@@ -79,6 +79,8 @@ flowchart LR
   D --> E["Offer a practical<br/>next step"]
 ```
 
+If the person you're talking with opposes AI rather than misunderstands it, see [Talking about AI with skeptics]({% link docs/start-here/explaining-ai-to-skeptics.md %}). Many objections are values, not myths.
+
 ## Worked example
 
 Back in the Northwind meeting, the ops lead responds to each myth in the same pattern:
