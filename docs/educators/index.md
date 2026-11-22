@@ -35,3 +35,5 @@ flowchart TB
 9. **Running an AI workshop:** a 90-minute, hands-on facilitator guide with planted errors and a pre/post check.
 10. **Explaining AI to students:** the first-week conversation: students' worries, why learning still matters, a live failure on your subject, and rules with reasons.
 11. **Explaining AI to parents:** what to tell families: their worries, a live failure, one habit for home, and a one-page family letter.
+12. **What a degree is for when AI can do the coursework:** a program-level assessment audit and seven moves that build on what AI can't replace.
+13. **Teaching computing when AI writes code:** fundamentals first, AI with verification, real codebases, and assessment that still shows ability.

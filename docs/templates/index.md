@@ -119,6 +119,8 @@ Disclosure statement: [2–4 SENTENCES]
 | Workshop agenda and task-pack prompt | A 90-minute hands-on session with planted errors and a pre/post check | [Running an AI workshop]({% link docs/educators/ai-workshop.md %}#the-90-minute-agenda) |
 | Assignment stress test | See how an AI-only submission would score, then redesign | [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %}#prompt-template) |
 | Family letter about AI | One page for parents: tool, rules by assignment, student information, concerns, a habit for home, contact | [Explaining AI to parents]({% link docs/educators/explaining-ai-to-parents.md %}#prompt-template) |
+| Program assessment audit | Rate each assessment: could AI produce the evidence? Keep, add checks, or redesign | [What a degree is for]({% link docs/educators/what-a-degree-is-for.md %}#prompt-template) |
+| Programming assignment stress test and explain-the-code questions | Run assignments through AI before the term; questions for five-minute checks | [Teaching computing when AI writes code]({% link docs/educators/teaching-computing-with-ai.md %}#prompt-template) |
 | First-week AI conversation | Worries, why learning matters, a live failure, rules with reasons, habits | [Explaining AI to students]({% link docs/educators/explaining-ai-to-students.md %}#ai-assisted-approach) |
 
 ## For running AI

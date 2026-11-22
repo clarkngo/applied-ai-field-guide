@@ -98,6 +98,8 @@ The positions are illustrative judgments. The goal is to move assessments up and
 
 The redesign keeps the learning goal (strategic analysis) and changes what produces a good grade.
 
+For redesigning assessment across a whole program rather than one assignment, see [What a degree is for when AI can do the coursework]({% link docs/educators/what-a-degree-is-for.md %}). For programming courses, see [Teaching computing when AI writes code]({% link docs/educators/teaching-computing-with-ai.md %}).
+
 ## Prompt template
 
 Use AI to stress-test your own assignment before learners see it:

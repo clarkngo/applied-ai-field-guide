@@ -94,6 +94,9 @@ flowchart TB
 **Disclosure**
 : A clear statement of AI's role in a piece of work: what it did, what you checked, and what you changed. See [the rubric]({% link docs/start-here/rubric.md %}).
 
+**Explain-it check**
+: A short conversation, often five minutes, where an instructor asks a student to explain or defend specific choices in their own work, without notes. Used to check that AI-assisted work reflects the student's understanding. See [Teaching computing when AI writes code]({% link docs/educators/teaching-computing-with-ai.md %}).
+
 **EU AI Act**
 : The European Union's AI law (Regulation (EU) 2024/1689), which sets duties based on risk: some uses are banned, some are high-risk, and some need transparency. See [AI regulation and frameworks]({% link docs/foundations/ai-regulation.md %}).
 
