@@ -1,8 +1,9 @@
 ---
 title: Explaining AI to students
 layout: default
-parent: For Educators
-nav_order: 10
+parent: Explaining AI to others
+grand_parent: Start Here
+nav_order: 4
 ---
 
 # Explaining AI to students

@@ -3,6 +3,8 @@ title: Explaining AI to others
 layout: default
 parent: Start Here
 nav_order: 11
+has_children: true
+has_toc: false
 ---
 
 # Explaining AI to others

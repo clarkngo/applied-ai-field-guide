@@ -1,8 +1,9 @@
 ---
 title: Explaining AI to your team
 layout: default
-parent: Running AI
-nav_order: 11
+parent: Explaining AI to others
+grand_parent: Start Here
+nav_order: 3
 ---
 
 # Explaining AI to your team

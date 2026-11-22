@@ -1,8 +1,9 @@
 ---
 title: Talking about AI with skeptics
 layout: default
-parent: Start Here
-nav_order: 12
+parent: Explaining AI to others
+grand_parent: Start Here
+nav_order: 7
 ---
 
 # Talking about AI with skeptics

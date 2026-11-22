@@ -1,8 +1,9 @@
 ---
 title: Explaining AI to a board
 layout: default
-parent: Running AI
-nav_order: 13
+parent: Explaining AI to others
+grand_parent: Start Here
+nav_order: 2
 ---
 
 # Explaining AI to a board
