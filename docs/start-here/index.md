@@ -55,7 +55,7 @@ flowchart LR
 4. **Learn the four habits** in [the rubric]({% link docs/start-here/rubric.md %}). Everything else in the guide hangs on them.
 5. **Work one task page end to end**, with a real tool open. Reading about verification is not the same as catching your first hallucination.
 6. **If you already rely on AI for most things**, read [Trusting your own judgment]({% link docs/start-here/trusting-yourself.md %}) and try the "me vs. AI" scorecard for a few weeks.
-7. **If you need to explain AI to someone else**, such as leaders, your team, students, or clients, start with [Explaining AI to others]({% link docs/start-here/explaining-ai-to-others.md %}).
+7. **If you need to explain AI to someone else**, such as leaders, your team, students, parents, or clients, start with [Explaining AI to others]({% link docs/start-here/explaining-ai-to-others.md %}).
 8. **Use [Templates]({% link docs/templates/index.md %})** when you just need the copy-paste version, and the [Glossary]({% link docs/start-here/glossary.md %}) when a term is unfamiliar.
 
 ## How every task page is laid out
