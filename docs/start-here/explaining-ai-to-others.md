@@ -52,6 +52,9 @@ mindmap
     Students
       Need to learn
       Why learn, live failure, rules per assignment
+    Parents
+      Need to know their child is OK
+      Rules, safety, one habit at home
     Clients
       Need to trust you
       Data, quality checks, honest pricing
@@ -62,6 +65,7 @@ mindmap
 | **Leaders** | Enough to decide: fund, approve, limit, or stop | Cost, risk, and whether it actually works | [Explaining AI to leaders]({% link docs/running-ai/explaining-ai-to-leaders.md %}) |
 | **Your team** | Enough to use it safely and with confidence | Their jobs, blame, and what's allowed | [Explaining AI to your team]({% link docs/running-ai/explaining-ai-to-your-team.md %}) |
 | **Students** | Enough to learn with it, not instead of learning | Being accused of cheating, falling behind | [Explaining AI to students]({% link docs/educators/explaining-ai-to-students.md %}) |
+| **Parents** | Enough to know their child is learning, safe, and treated fairly | Cheating, data and safety, whether their child still learns | [Explaining AI to parents]({% link docs/educators/explaining-ai-to-parents.md %}) |
 | **Clients** | Enough to trust your work and your handling of their data | Confidentiality, quality, and price | [Explaining AI to clients]({% link docs/running-ai/explaining-ai-to-clients.md %}) |
 
 ### For an audience not listed
@@ -72,7 +76,7 @@ Ask three questions before you explain anything:
 2. **What are they worried about?** If you don't know, ask them before you explain.
 3. **What's the one failure they should see?** Pick the one most relevant to their situation.
 
-For example, **parents** of students usually worry about cheating and about whether their child is still learning; the [students page]({% link docs/educators/explaining-ai-to-students.md %}) adapts well. A **board** needs the leaders' brief, focused on oversight: who owns it, how results are reported, and what would stop it. **Customers** using an AI assistant need to know it's AI, what it can and can't do, and how to reach a person.
+For example, a **board** needs the leaders' brief, focused on oversight: who owns it, how results are reported, and what would stop it. **Customers** using an AI assistant need to know it's AI, what it can and can't do, and how to reach a person.
 
 ## Worked example
 
