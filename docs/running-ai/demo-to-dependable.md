@@ -173,6 +173,8 @@ Don't assume anything about the tool beyond my description.
 
 **Decide:** Whether a tool is ready is a management decision, made by someone who'll be accountable if it goes wrong. A good demo is a reason to run the check, not a reason to skip it.
 
+When the check passes and you need approval for a pilot, see [Explaining AI to leaders]({% link docs/running-ai/explaining-ai-to-leaders.md %}) for how to brief the decision-makers.
+
 ## For educators: turn this into a challenge
 
 Show teams a two-minute recorded demo of a fictional AI tool, along with a "builder's notes" page that quietly reveals four or five gaps (a key in a spreadsheet, three test examples, no owner). Teams act as the approving manager: they run the 10-point check, list their questions, and write a go, no-go, or pilot decision with conditions. Debrief: *Which gaps were invisible in the demo? Which question would you ask first next time?* See [Designing an AI-fluency challenge]({% link docs/educators/ai-fluency-challenge.md %}).

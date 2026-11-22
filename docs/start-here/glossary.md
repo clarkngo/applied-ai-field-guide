@@ -194,6 +194,9 @@ flowchart TB
 **Socratic tutor**
 : An AI set up to ask guiding questions instead of giving answers. See [Socratic tutor prompt]({% link docs/educators/socratic-tutor-prompt.md %}).
 
+**Stop condition**
+: A result, agreed before a pilot starts, that would pause or end it, such as "any emergency request rated routine." See [Explaining AI to leaders]({% link docs/running-ai/explaining-ai-to-leaders.md %}).
+
 **Swap test**
 : A bias check: change one detail about a person (name, pronouns) and compare the outputs. See [Bias, fairness, and ethics]({% link docs/foundations/bias-and-ethics.md %}).
 
