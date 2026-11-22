@@ -33,3 +33,4 @@ flowchart TB
 7. **Creating cases and data packs:** fictional cases with internally consistent numbers and planted traps.
 8. **Accessible and inclusive materials:** alt text, plain language, captions, and translations, checked for accuracy.
 9. **Running an AI workshop:** a 90-minute, hands-on facilitator guide with planted errors and a pre/post check.
+10. **Explaining AI to students:** the first-week conversation: students' worries, why learning still matters, a live failure on your subject, and rules with reasons.

@@ -64,7 +64,7 @@ flowchart LR
 2. **List each assessment and what it's meant to build (Use).** Choose a level for each one based on that purpose.
 3. **Draft the policy with AI (Use).** Use the template below. AI is good at producing clear, friendly wording from your decisions.
 4. **Test it (Verify).** Give the draft to a colleague, or ask AI to role-play a confused learner, and see whether the rules hold up against real edge cases.
-5. **Publish it in three places (Decide):** the syllabus, each assignment brief, and a short first-week discussion.
+5. **Publish it in three places (Decide):** the syllabus, each assignment brief, and a short first-week discussion. See [Explaining AI to students]({% link docs/educators/explaining-ai-to-students.md %}) for how to run that discussion.
 
 ## Prompt template
 

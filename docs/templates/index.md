@@ -118,6 +118,7 @@ Disclosure statement: [2–4 SENTENCES]
 | Alt text and plain-language prompts | Accessible versions that keep numbers and meaning | [Accessible and inclusive materials]({% link docs/educators/accessibility.md %}#prompt-template) |
 | Workshop agenda and task-pack prompt | A 90-minute hands-on session with planted errors and a pre/post check | [Running an AI workshop]({% link docs/educators/ai-workshop.md %}#the-90-minute-agenda) |
 | Assignment stress test | See how an AI-only submission would score, then redesign | [AI-resilient assessment]({% link docs/educators/ai-resilient-assessment.md %}#prompt-template) |
+| First-week AI conversation | Worries, why learning matters, a live failure, rules with reasons, habits | [Explaining AI to students]({% link docs/educators/explaining-ai-to-students.md %}#ai-assisted-approach) |
 
 ## For running AI
 
