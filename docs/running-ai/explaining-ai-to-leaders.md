@@ -30,6 +30,8 @@ Leaders don't need to know how a model works. They need enough to make a decisio
 
 Leaders also hear two stories about AI all day: that it will transform everything, and that it's a risk to be avoided. A plain account of *what it does well, what it doesn't, and how we know* stands out from both.
 
+For other audiences, see [Explaining AI to others]({% link docs/start-here/explaining-ai-to-others.md %}).
+
 ## Key ideas
 
 ### Five questions every leader is really asking

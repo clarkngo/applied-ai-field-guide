@@ -35,6 +35,8 @@ Introductions to AI often fail in one of two directions:
 
 Either way, the result is the same: people use AI badly or not at all, and mistakes stay hidden. The goal is a team that uses approved tools on the right tasks, checks the output, and feels safe saying "it got this wrong."
 
+For other audiences, see [Explaining AI to others]({% link docs/start-here/explaining-ai-to-others.md %}).
+
 ## Key ideas
 
 ### Answer the unspoken questions first
