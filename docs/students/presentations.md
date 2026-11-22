@@ -122,7 +122,7 @@ Step 3: List the 5 toughest questions [AUDIENCE] is likely to ask.
 
 **Disclose:** For coursework, follow your course policy, for example: *"AI suggested storyline options and drafted slide text from our analysis. We chose the storyline, checked every figure and chart, and wrote the recommendation."* In business settings, follow your organization's norms.
 
-**Decide:** The recommendation, the emphasis, and what to leave out are your choices. So are the answers in the room.
+**Decide:** The recommendation, the emphasis, and what to leave out are your choices. So are the answers in the room. If you're pitching an AI project itself, see [Explaining AI to leaders]({% link docs/running-ai/explaining-ai-to-leaders.md %}).
 
 ## For educators: turn this into a challenge
 
