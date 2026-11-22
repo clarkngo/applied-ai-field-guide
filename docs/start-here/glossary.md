@@ -185,6 +185,9 @@ flowchart TB
 **Scheduling**
 : Running an AI task automatically at set times, such as a weekly digest.
 
+**Shadow AI**
+: Staff using AI tools their organization hasn't approved, often personal accounts, usually with good intentions. An approved alternative and clear rules bring it into the open; a ban without them can push it out of sight. See [Explaining AI to your team]({% link docs/running-ai/explaining-ai-to-your-team.md %}).
+
 **Simpson's paradox**
 : When a pattern in combined data reverses within every group, because the groups were mixed unevenly. See [Reading data and statistics]({% link docs/students/data-and-statistics.md %}).
 

@@ -152,6 +152,8 @@ The post-check is a short-term measure on a small group, so it's evidence the se
 
 **Decide:** You decide what participants practice, what data is allowed, and what counts as success. Participants decide what they'll change in their own work. Their commitments are theirs, not the tool's.
 
+If you're a manager introducing an approved tool to your own team, see [Explaining AI to your team]({% link docs/running-ai/explaining-ai-to-your-team.md %}) for what to say before and after the workshop.
+
 ## For educators: turn this into a challenge
 
 Turn the workshop design itself into the activity: teams of educators or student leaders design a 30-minute mini-workshop for a specific audience using this agenda pattern, including one task with a planted error and a pre/post check. Each team runs it for another team, and the hosts score whether their check showed an improvement. Debrief: *Did the planted error appear live? What did you do when it didn't?* See [Designing an AI-fluency challenge]({% link docs/educators/ai-fluency-challenge.md %}).
