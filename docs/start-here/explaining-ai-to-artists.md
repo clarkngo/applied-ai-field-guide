@@ -1,8 +1,9 @@
 ---
 title: Talking about AI with artists
 layout: default
-parent: Start Here
-nav_order: 13
+parent: Explaining AI to others
+grand_parent: Start Here
+nav_order: 8
 ---
 
 # Talking about AI with artists
